@@ -1,14 +1,30 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<!-- HERO -->
+<div class="container fullwidth pt140 pb140" data-background="http://placehold.it/1920x1280">
+  <div class="pt140 pb140">
 
-  <div class="post-content">
-    {{ content }}
+    <div class="entrance">
+      <h2 class="title">{{ page.title }}</h2>
+      {% if page.subtitle %}
+      <p class="separator"></p>
+      <p class="small capitalize serif">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+
   </div>
+</div>
+<!-- /HERO -->
 
-</article>
+
+<!-- POST CONTENT -->
+<div class="container mt70 mb70 text-center equal-height-cols">
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+      <h3 class="title mb0">{{ page.lead }}</h3>
+      <p class="separator mt20 mb20">{{ content }}</p>
+    </div>
+  </div>
+</div>
