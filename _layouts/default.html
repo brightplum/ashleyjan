@@ -18,10 +18,10 @@
     {% include footer.html %}
 
     <!-- js -->
-    <script src="/js/lib/jquery.min.js"></script>
-    <script src="/js/lib/scripts.js"></script>
+    <script src="{{ "/js/lib/jquery.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/js/lib/scripts.js" | prepend: site.baseurl }}"></script>
     <!-- main js -->
-    <script src="/js/main.js"></script>
+    <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 
   </body>
 
