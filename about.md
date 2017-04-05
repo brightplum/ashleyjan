@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am currently pursuing an MFA in Painting full time. 
-
-While in the program, I am investigating the themes of my identity, lineage and ancestry by exploring my past. 
-
 In researching my family history I am able to make better sense of my present and gain clarity for my future. 
 
 I want to piece together the missing information that was lost and deliberately taken away. 
