@@ -2,22 +2,129 @@
 layout: default
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<!-- INTRO TEXT -->
+<div class="container pt100 pb100 mt20">
+  <div class="col-md-8 col-md-offset-2 mb0">
+    <p class="intro text-center">Hello.<br>I'm Ashley. Artist From Chicago, I Like To Capture The Perfect</p>
+  </div>
 </div>
+<!-- INTRO TEXT -->
+
+<!-- PORTFOLIO -->
+<!-- For item sizes use classes .wide and .tall -->
+<div class="container mt30">
+  <div class="grid portfolio" data-gutter="5" data-columns="3">
+
+    <div class="grid-item tall">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x1200"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>dead inside</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x600"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>lips feel warm</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x600"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>giving infinity</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item wide tall">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/1200x1200"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>ablaze and alive</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item tall">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x1200"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>Feel me now</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item wide">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/1200x600"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>touch the sky</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x600"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>back to life</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item tall">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x1200"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>On the outside</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item tall">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x1200"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>crushed and pulverised</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="grid-item">
+      <a href="portfolio-single1.html">
+        <div class="img" data-background="http://placehold.it/800x600"></div>
+        <div class="hover">
+          <div class="centered">
+            <h5>But you're</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+  </div>
+</div>
+<!-- /PORTFOLIO -->
