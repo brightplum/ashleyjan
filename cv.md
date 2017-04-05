@@ -4,9 +4,10 @@ title: Curriculum Vitae
 subtitle: b. Rantoul, IL, 1987
 lead: CV
 permalink: /cv/
+order: 2
 ---
 
-Education:
+**Education:**
 
 2015 - Present | Laguna College of Art and Design, MFA - Laguna Beach, CA
 
@@ -16,9 +17,8 @@ Education:
 
 2008 | Institute of Italian Studies - Florence, Italy
 
- 
 
-Experience:
+**Experience:**
 
 2016 | Commissioned Painting - Roxanne (18” x 24” oil on canvas on panel) - Chicago, IL
 
@@ -28,17 +28,15 @@ Experience:
 
 2005 | Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
- 
 
-Awards:
+**Awards:**
 
 2016 | ArtSlant Prize Competition, Round 3 Juried Winner - Online
 
 2004 | Prairie State College Award of Merit - Chicago Heights, IL
 
  
-
-Exhibitions:
+**Exhibitions:**
 
 2017 | Cast of Crowns Gallery, Group Show - Laguna Beach, CA
 

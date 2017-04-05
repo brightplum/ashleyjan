@@ -2,6 +2,7 @@
 layout: minimal
 title: About
 permalink: /about/
+order: 1
 ---
 
 In researching my family history I am able to make better sense of my present and gain clarity for my future. 
