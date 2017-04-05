@@ -12,10 +12,9 @@
 
     <!-- MAIN_WRAPPER -->
     <div class="main-wrapper animsition">
-        {{ content }}
+      {{ content }}
+      {% include footer.html %}
     </div>
-
-    {% include footer.html %}
 
     <!-- js -->
     <script src="{{ "/js/lib/jquery.min.js" | prepend: site.baseurl }}"></script>
