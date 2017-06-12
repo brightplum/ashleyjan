@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Identity Fragmentation - A Self Portrait
+title: Identity Fragmentation, A Self Portrait
 permalink: /art/identityfrag
 year: 2017
 dimension: 70 x 42 in. (can be rolled)
