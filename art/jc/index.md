@@ -4,9 +4,9 @@ title: JC
 permalink: /art/jc
 year: 2017
 dimension: 72 x 60 in.
-slide1: https://res.cloudinary.com/brightplum/image/upload/s--0hPCxD-D--/c_scale,q_jpegmini,w_800/v1493571523/ashleyjan/JC_bosuez.jpg
-slide2: https://res.cloudinary.com/brightplum/image/upload/s--u5bcex_n--/t_1200x800/v1493571505/ashleyjan/JC-crop_top_eprzxo.jpg
-slide3: https://res.cloudinary.com/brightplum/image/upload/s--TEUXt1Eo--/t_1200x800/v1493571510/ashleyjan/JC-Jacket_nbkpjp.jpg
+slide1: https://res.cloudinary.com/brightplum/image/upload/s--2piU0eWu--/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
+slide2: https://res.cloudinary.com/brightplum/image/upload/s--_pI6RyL7--/t_cropnorth800x600/v1497221046/ashleyjan/JC.jpg
+slide3: https://res.cloudinary.com/brightplum/image/upload/s--kyEXCSYC--/t_cropsouth800x600/v1497221046/ashleyjan/JC.jpg
 ---
 
 Oil on canvas
