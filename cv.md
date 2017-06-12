@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 subtitle: b. Rantoul, IL, 1987
 lead: CV
 permalink: /cv/
