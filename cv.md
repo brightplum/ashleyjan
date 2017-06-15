@@ -36,7 +36,7 @@ order: 2
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
  
-###Exhibitions:
+### Exhibitions:
 
 2017 - Cast of Crowns Gallery, Group Show - Laguna Beach, CA
 
@@ -61,3 +61,5 @@ order: 2
 2004 - Prairie State College, Christopher Art Gallery - Chicago Heights, IL
 
 2004 - Illinois Art Education Association Student Art Show - Chicago, IL
+
+<a href="/CV-1.pdf">Download CV</a>
