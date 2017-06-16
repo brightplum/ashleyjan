@@ -9,7 +9,7 @@ order: 2
 
 ### Education:
 
-2015 - Present - Laguna College of Art and Design, MFA - Laguna Beach, CA
+2015 - 2017 - Laguna College of Art and Design, MFA - Laguna Beach, CA
 
 2013 - 2015 - Vitruvian Fine Art Studio - Chicago, IL
 
