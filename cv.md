@@ -20,6 +20,10 @@ order: 2
 
 ### Experience:
 
+2017 - Commissioned Painting - Untitled Double Portrait (14" x 18" oil on linen) - Chicago, IL
+
+2017 - Greater Los Angeles Masters of Fine Arts CSLB Panel Lecture - Long Beach, CA
+
 2016 - Commissioned Painting - Roxanne (18” x 24” oil on canvas on panel) - Chicago, IL
 
 2014 - Commissioned Painting - Beekeeper (18" x 24" oil on canvas) - Miami, FL
@@ -31,12 +35,24 @@ order: 2
 
 ### Awards:
 
+2017 - Beverly Arts Center of Chicago, Best of Show Juried Winner - Chicago, IL
+
 2016 - ArtSlant Prize Competition, Round 3 Juried Winner - Online
 
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
  
 ### Exhibitions:
+
+2017 - Beverly Arts Center 41st Annual Art Competition, Juried Exhibition - Chicago, IL 2017 - Bridgeport Art Center, 4th Floor Gallery Group Showcase - Chicago, IL
+
+2017 - Bombay Sapphire Artisan Series, Gallery Guichard - Chicago, IL
+
+2017 - Q Art Salon, Intuitive Realities II Exhibit - Santa Ana, CA
+
+2017 - Laguna Art Museum, Emerging Masters 2017 - Laguna Beach, CA
+
+2017 - Pacific Art Foundation, Emerging Artists Group Showcase - Newport Beach, CA
 
 2017 - Cast of Crowns Gallery, Group Show - Laguna Beach, CA
 
