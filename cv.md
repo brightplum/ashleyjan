@@ -20,6 +20,10 @@ order: 2
 
 ### Experience:
 
+2018 - Commissioned Painting - Untitled (14” x 18” oil on linen) - Chicago, IL
+
+2018 - Girls STEAM Ahead - Professional Mentor Volunteer - Flossmoor, IL
+
 2017 - Commissioned Painting - Untitled Double Portrait (14" x 18" oil on linen) - Chicago, IL
 
 2017 - Greater Los Angeles Masters of Fine Arts CSLB Panel Lecture - Long Beach, CA
@@ -35,6 +39,8 @@ order: 2
 
 ### Awards:
 
+2018 - Woman Made Gallery, First Place Award Winner - Chicago, IL
+
 2017 - Beverly Arts Center of Chicago, Best of Show Juried Winner - Chicago, IL
 
 2016 - ArtSlant Prize Competition, Round 3 Juried Winner - Online
@@ -43,6 +49,10 @@ order: 2
 
  
 ### Exhibitions:
+
+2018 - Woman Made Gallery, Midwest Open Juried Competition - Chicago, IL
+
+2018 - Museum of Science and Industry, Black Creativity Exhibit - Chicago, IL
 
 2017 - Beverly Arts Center 41st Annual Art Competition, Juried Exhibition - Chicago, IL 2017 - Bridgeport Art Center, 4th Floor Gallery Group Showcase - Chicago, IL
 
