@@ -10,3 +10,9 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2Tw1LmMC--/c_scale,q_jpegmini,w_800/t_cropcenter800x1200/v1497221329/ashleyjan/Identity_20Fragmentation_.jpg
   title: "Identity Fragmentation: A Self Portrait"
   order: 1
+- style: tall
+  class: painting
+  url: /art/jcblue
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--PhCvY5Is--/c_scale,w_800/c_crop,g_center,h_1200/v1497527774/ashleyjan/JC_20In_20Blue_.jpg
+  title: "JC in Blue"
+  order: 24
