@@ -3,8 +3,10 @@
   url: /art/familyportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--hDg1-sAJ--/c_scale,q_jpegmini,w_1200/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
   title: "Family Portrait"
+  order: 2
 - style: tall
   class: painting
   url: /art/identityfrag
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2Tw1LmMC--/c_scale,q_jpegmini,w_800/t_cropcenter800x1200/v1497221329/ashleyjan/Identity_20Fragmentation_.jpg
   title: "Identity Fragmentation: A Self Portrait"
+  order: 1
