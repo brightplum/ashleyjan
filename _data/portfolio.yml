@@ -40,3 +40,15 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--bqbPKY5u--/t_cropcenter800x1200/v1497221060/ashleyjan/FaceTime_20With_20January_.jpg
   title: "FaceTime With January"
   order: 10
+- style: wide tall
+  class: painting
+  url: /art/jc
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--sh6X7OUk--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
+  title: "JC"
+  order: 18
+- style:
+  class: painting
+  url: /art/advocate
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--QHwEc3l4--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221338/ashleyjan/A_d_vocat_e__.jpg
+  title: "A[d]vocat[e]"
+  order: 19
