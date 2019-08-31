@@ -19,6 +19,6 @@
 - style: 
   class: painting
   url: /art/fredricaugustus
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--Bk6qaknl--/t_cropnorth800x600/v1497221346/ashleyjan/Fredric_20Augustus.jpg      <a href="{{ site.baseurl }}">
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Bk6qaknl--/t_cropnorth800x600/v1497221346/ashleyjan/Fredric_20Augustus.jpg
   title: Fredric Augustus
   order: 3
