@@ -52,3 +52,20 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--QHwEc3l4--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221338/ashleyjan/A_d_vocat_e__.jpg
   title: "A[d]vocat[e]"
   order: 19
+- style:
+  class: painting
+  url: /art/lineageartifact
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--TnmC2iKD--/c_scale,q_jpegmini,w_800/v1520431025/ashleyjan/Lineage_Artifact.jpg
+  title: "Lineage Artifact"
+- style: tall
+  class: painting
+  url: /art/theaterwhitesonly
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Uq8xTuKl--/t_cropcenter800x1200/v1497221354/ashleyjan/Front_20Entrance_20to_20Theater_.jpg
+  title: "Front Entrance to Theater (White Only) in Clarksdale, Mississippi"
+  order: 21
+- style:
+  class: painting
+  url: /art/theaterbackentrance
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--clE0q1Oa--/t_cropcenter800x600/v1497221362/ashleyjan/Back_20Entrance_20to_20Theater_.jpg
+  title: "Back Entrance to Theater (Black Only) in Clarksdale, Mississippi"
+  order: 22
