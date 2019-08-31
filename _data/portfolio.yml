@@ -57,6 +57,7 @@
   url: /art/lineageartifact
   img_url: //res.cloudinary.com/brightplum/image/upload/s--TnmC2iKD--/c_scale,q_jpegmini,w_800/v1520431025/ashleyjan/Lineage_Artifact.jpg
   title: "Lineage Artifact"
+  order: 20
 - style: tall
   class: painting
   url: /art/theaterwhitesonly
@@ -69,3 +70,27 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--clE0q1Oa--/t_cropcenter800x600/v1497221362/ashleyjan/Back_20Entrance_20to_20Theater_.jpg
   title: "Back Entrance to Theater (Black Only) in Clarksdale, Mississippi"
   order: 22
+- style:
+  class: painting
+  url: /art/gregory
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--OBEfB3J0--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221377/ashleyjan/Gregory.jpg
+  title: "Gregory"
+  order: 26
+- style: wide tall
+  class: painting
+  url: /art/concede
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--xFuRDEdT--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1493571383/ashleyjan/Ashley_Gardner_01_zrc6np.jpg
+  title: "Concede"
+  order: 28
+- style: 
+  class: drawing
+  url: /art/selfportrait
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
+  title: "Self-Portrait"
+  order: 34
+- style:
+  class: painting
+  url: /art/ashley
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--E0xt4q-d--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221405/ashleyjan/Ashley_.jpg
+  title: "Ashley" 
+  order: 35
