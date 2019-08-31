@@ -87,10 +87,28 @@
   url: /art/selfportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
   title: "Self-Portrait"
-  order: 34
+  order: 48
 - style:
   class: painting
   url: /art/ashley
   img_url: //res.cloudinary.com/brightplum/image/upload/s--E0xt4q-d--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221405/ashleyjan/Ashley_.jpg
   title: "Ashley" 
   order: 35
+- style: 
+  class: painting
+  url: /art/averi
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--bqP5nvDW--/c_scale,q_jpegmini,w_800/v1497528196/ashleyjan/Averi.jpg
+  title: "Averi"
+  order: 41
+- style: 
+  class: painting
+  url: /art/carbon
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--oNOZRCGP--/c_scale,q_jpegmini,w_800/v1493571438/ashleyjan/Carbon_Footprint_box_lg8bm9.jpg
+  title: "Carbon Footprint"
+  order: 45
+- style:
+  class: painting
+  url: /art/kylehoodie
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Q8qs1aJ_--/c_scale,q_jpegmini,w_800/v1493571516/ashleyjan/Kyle_ekuszq.jpg
+  title: "Kyle Wearing a Hoodie"
+  order: 46
