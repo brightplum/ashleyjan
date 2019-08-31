@@ -20,5 +20,23 @@
   class: painting
   url: /art/fredricaugustus
   img_url: //res.cloudinary.com/brightplum/image/upload/s--Bk6qaknl--/t_cropnorth800x600/v1497221346/ashleyjan/Fredric_20Augustus.jpg
-  title: Fredric Augustus
+  title: "Fredric Augustus"
   order: 3
+- style:
+  class: painting
+  url: /art/junegarden
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--L4_YyDcH--/t_cropcenter800x600/v1497221419/ashleyjan/June_20Dans_20Le_20Jardin.jpg
+  title: "June Dans le Jardin"
+  order: 8
+- style: tall
+  class: painting
+  url: /art/annathrone
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--IIlDmRI8--/t_cropcenter800x1200/v1497221159/ashleyjan/Anna_20On_20Her_20Throne_.jpg
+  title: "Anna On Her Throne"
+  order: 9
+- style: tall
+  class: painting
+  url: /art/facetime
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--bqbPKY5u--/t_cropcenter800x1200/v1497221060/ashleyjan/FaceTime_20With_20January_.jpg
+  title: "FaceTime With January"
+  order: 10
