@@ -154,3 +154,10 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--FFEZQRT4--/c_scale,q_jpegmini,w_800/v1567965311/ashleyjan/2019/SheTolduSo.jpg
   title: "She Told u So"
   order: 15
+- style:
+  class: studies
+  url: /art/ashleystudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--3nhHJhXm--/c_scale,q_jpegmini,w_800/v1567965312/ashleyjan/2019/AshleyStudy.jpg
+  title: "Ashley Study"
+  order: 33
+
