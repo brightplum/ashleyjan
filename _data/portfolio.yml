@@ -132,7 +132,7 @@
   order: 51
 - style:
   class: drawing
-  url: art/limejar
+  url: /art/limejar
   img_url: //res.cloudinary.com/brightplum/image/upload/s--O7_aH7Td--/c_scale,w_800/c_crop,g_center,h_600/v1493571523/ashleyjan/lime_jar_pitcher_spoon_still_life_small_p6yiat.jpg
   title: "Lime, Jar, Pitcher, Spoon"
   order: 55
@@ -142,4 +142,9 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--cgH5fajI--/c_scale,q_jpegmini,w_800/v1567965305/ashleyjan/2019/iTolduSo.jpg
   title: "iTold u So"
   order: 5
-
+- style: 
+  class: painting
+  url: /art/grandpastudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
+  title: "Grandpa Study"
+  order: 43
