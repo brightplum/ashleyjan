@@ -10,6 +10,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2Tw1LmMC--/c_scale,q_jpegmini,w_800/t_cropcenter800x1200/v1497221329/ashleyjan/Identity_20Fragmentation_.jpg
   title: "Identity Fragmentation: A Self Portrait"
   order: 2
+- style: 
+  class: painting
+  url: /art/pillarsjune
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--yoif0P5h--/c_scale,q_jpegmini,w_800/v1567965319/ashleyjan/2019/TheThreePillarsofJune.jpg
+  title: "The Three Pillars of June"
+  order: 7
 - style: tall
   class: painting
   url: /art/jcblue
