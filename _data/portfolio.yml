@@ -148,3 +148,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
   title: "Grandpa Study"
   order: 43
+- style: 
+  class: painting
+  url: /art/shetolduso
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--FFEZQRT4--/c_scale,q_jpegmini,w_800/v1567965311/ashleyjan/2019/SheTolduSo.jpg
+  title: "She Told u So"
+  order: 15
