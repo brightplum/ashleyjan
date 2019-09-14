@@ -172,4 +172,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--HHZg8vpT--/c_scale,q_jpegmini,w_800/v1567967062/ashleyjan/2019/TheParents.jpg
   title: "The Parents"
   order: 12
-  
+- style:
+  class: commissions
+  url: /art/momo
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
+  title: "Momo"
+  order: 16
