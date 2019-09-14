@@ -160,4 +160,9 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3nhHJhXm--/c_scale,q_jpegmini,w_800/v1567965312/ashleyjan/2019/AshleyStudy.jpg
   title: "Ashley Study"
   order: 33
-
+- style:
+  class: commissions
+  url: /art/dbportrait
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--Oer4Um2F--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Double_Portrait_2.jpg
+  title: "Double Portrait"
+  order: 11
