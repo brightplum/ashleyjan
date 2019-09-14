@@ -196,3 +196,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--FXDHcw0j--/c_scale,q_jpegmini,w_800/v1567967212/ashleyjan/2019/June.jpg
   title: "June"
   order: 25
+- style:
+  class: painting
+  url: /art/magentastig
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
+  title: "Magenta Stigma"
+  order: 14
