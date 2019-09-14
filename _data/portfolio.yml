@@ -208,3 +208,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
   title: "Kyle Study"
   order: 32
+- style:
+  class: painting
+  url: /art/deuxtrimest
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
+  title: "Deuxième Trimestre"
+  order: 13
