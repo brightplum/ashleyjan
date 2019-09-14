@@ -190,4 +190,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
   title: "Bee Keeper"
   order: 49
-  
+- style:
+  class: painting
+  url: /art/june
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--FXDHcw0j--/c_scale,q_jpegmini,w_800/v1567967212/ashleyjan/2019/June.jpg
+  title: "June"
+  order: 25
