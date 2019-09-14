@@ -166,3 +166,10 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--Oer4Um2F--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Double_Portrait_2.jpg
   title: "Double Portrait"
   order: 11
+- style:
+  class: commissions
+  url: /art/theparents
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--HHZg8vpT--/c_scale,q_jpegmini,w_800/v1567967062/ashleyjan/2019/TheParents.jpg
+  title: "The Parents"
+  order: 12
+  
