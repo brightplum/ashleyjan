@@ -214,3 +214,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
   title: "Deuxième Trimestre"
   order: 13
+- style:
+  class: painting
+  url: /art/potentmigrate
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--jYE7ut5d--/c_scale,q_jpegmini,w_800/v1567967301/ashleyjan/2019/APotentiallyContinuedMigration.jpg
+  title: "A Potentially Continued Migration"
+  order: 4
