@@ -202,3 +202,9 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
   title: "Magenta Stigma"
   order: 14
+- style: 
+  class: painting
+  url: /art/kylestudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
+  title: "Kyle Study"
+  order: 32
