@@ -5,12 +5,4 @@ permalink: /about/
 order: 1
 ---
 
-In researching my family history I am able to make better sense of my present and gain clarity for my future. 
-
-I want to piece together the missing information that was lost and deliberately taken away. 
-
-Using self-reflection as a constant metaphorical theme throughout the work, I am highlighting the people in my life that I have descended from and to whom I feel most connected. 
-
-My parents, grandparents, spouse and self are a direct reflection of who I am from the past, in the present and who I will become in the future. 
-
-I want to honor the struggle and sacrifice of my ancestors while engaging in the dialogue of what it means to be an American family.
+I am addressing the growing crisis of the black maternal mortality rate in America through painting, audio and mixed media. Pictorial narratives of familial and generational dynamism were the foundation of my investigation of the self. Those portraits continue to inform my recent work that has shifted towards a maternal concentration. I am confronting the trauma surrounding my entrance into motherhood in October 2018, by creating discourse covering self-reflection, personal empowerment, and black transcendence in the midst of adversity.
