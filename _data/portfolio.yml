@@ -136,7 +136,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--xFuRDEdT--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1493571383/ashleyjan/Ashley_Gardner_01_zrc6np.jpg
   title: "Concede"
   order: 115
-- style:
+- style: tall
   class: commissions
   url: /art/roxanne
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--40psPWvD--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Roxanne.jpg
