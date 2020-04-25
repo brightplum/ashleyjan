@@ -70,7 +70,7 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
   title: "Deuxième Trimestre"
   order: 65
-- style:
+- style: tall
   class: painting
   url: /art/magentastig
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
