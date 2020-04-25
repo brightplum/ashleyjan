@@ -88,7 +88,7 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
   title: "Momo"
   order: 75
-- style: wide tall tall
+- style: wide tall
   class: painting
   url: /art/jc
   img_url: //res.cloudinary.com/brightplum/image/upload/s--sh6X7OUk--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
@@ -202,7 +202,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
   title: "Self-Portrait"
   order: 170
-- style: 
+- style: tall
   class: commissions
   url: /art/beekeep
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
