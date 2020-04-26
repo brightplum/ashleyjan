@@ -130,6 +130,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--OBEfB3J0--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221377/ashleyjan/Gregory.jpg
   title: "Gregory"
   order: 110
+- style:
+  class: painting
+  url: /art/pianina
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
+  title: "Pia and Nina"
+  order: 113
 - style: wide tall
   class: painting
   url: /art/concede
@@ -154,7 +160,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3nhHJhXm--/c_scale,q_jpegmini,w_800/v1567965312/ashleyjan/2019/AshleyStudy.jpg
   title: "Ashley Study"
   order: 130
-- style: wide
+- style: wide tall
   class: studies
   url: /art/crystalanddylanstudy
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Crystal_and_Dylan_Study.jpg
