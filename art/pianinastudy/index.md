@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Momo
-permalink: /art/momo
-year: 2018
-dimension: 14 x 12 in.
-slide1: https://res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
-slide2: https://res.cloudinary.com/brightplum/image/upload/s--N0uLjGeO--/c_scale,q_jpegmini,w_800/v1567967053/ashleyjan/2019/MomoDETAIL.jpg
+title: Pia and Nina Study
+permalink: /art/pianinastudy
+year: 2020
+dimension: 12 x 9 in.
+slide1: https://res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
+slide2: https://res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
 ---
 
 Oil on canvas
