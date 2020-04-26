@@ -154,6 +154,12 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--40psPWvD--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Roxanne.jpg
   title: "Roxanne"
   order: 120
+- style:
+  class: studies
+  url: /art/ashleyquinnstudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/QuinnandAshleyStudy.jpg
+  title: "Quinn and Ashley Study"
+  order: 123
 - style: 
   class: painting
   url: /art/kylestudy
