@@ -130,6 +130,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--OBEfB3J0--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221377/ashleyjan/Gregory.jpg
   title: "Gregory"
   order: 110
+- style:
+  class: painting
+  url: /art/pianina
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
+  title: "Pia and Nina"
+  order: 113
 - style: wide tall
   class: painting
   url: /art/concede
