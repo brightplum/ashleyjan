@@ -166,6 +166,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--E0xt4q-d--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221405/ashleyjan/Ashley_.jpg
   title: "Ashley" 
   order: 135
+- style:
+  class: studies
+  url: /art/pianinastudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
+  title: "Pia and Nina Study"
+  order: 137
 - style: 
   class: painting
   url: /art/averi
