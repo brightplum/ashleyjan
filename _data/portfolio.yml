@@ -154,6 +154,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3nhHJhXm--/c_scale,q_jpegmini,w_800/v1567965312/ashleyjan/2019/AshleyStudy.jpg
   title: "Ashley Study"
   order: 130
+- style: wide
+  class: studies
+  url: /art/crystalanddylanstudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Crystal_and_Dylan_Study.jpg
+  title: "Crystal and Dylan Study"
+  order: 133
 - style:
   class: painting
   url: /art/ashley
