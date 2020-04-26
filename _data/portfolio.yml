@@ -112,7 +112,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--clE0q1Oa--/t_cropcenter800x600/v1497221362/ashleyjan/Back_20Entrance_20to_20Theater_.jpg
   title: "Back Entrance to Theater (Black Only) in Clarksdale, Mississippi"
   order: 95
-- style:
+- style: tall
   class: painting
   url: /art/blackmomuswhitemom
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
@@ -171,7 +171,13 @@
   url: /art/crystalanddylanstudy
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Crystal_and_Dylan_Study.jpg
   title: "Crystal and Dylan Study"
-  order: 133
+  order: 132
+- style: tall
+  class: studies
+  url: /art/kangaroostudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/KangarooCareStudy.jpg
+  title: "Kangaroo Care Study"
+  order: 134
 - style:
   class: painting
   url: /art/ashley
