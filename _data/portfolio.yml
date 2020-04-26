@@ -112,6 +112,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--clE0q1Oa--/t_cropcenter800x600/v1497221362/ashleyjan/Back_20Entrance_20to_20Theater_.jpg
   title: "Back Entrance to Theater (Black Only) in Clarksdale, Mississippi"
   order: 95
+- style:
+  class: painting
+  url: /art/blackmomuswhitemom
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
+  title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
+  order: 97
 - style: tall
   class: painting
   url: /art/jcblue
