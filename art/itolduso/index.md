@@ -1,6 +1,6 @@
 ---
 layout: single
-title: iTold u So
+title: Her Role
 permalink: /art/itolduso
 year: 2018
 dimension: 60 x 48 in.
