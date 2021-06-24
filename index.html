@@ -14,28 +14,26 @@ layout: default
 </div>
 <!-- /FILTER -->
 
-<!-- PORTFOLIO -->
-<!-- For item sizes use classes .wide and .tall -->
+<!-- PROJECT -->
 <div class="container mt30">
-  <div class="grid portfolio" data-gutter="5" data-columns="3">
+    <div class="col-md-12">
 
-    {% assign portfolio_items = site.data.portfolio | sort:"order" %}
-    {% for item in portfolio_items %}
-    {% if item.title %}
-    <div class="grid-item {{ item.style }} {{ item.class }}">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        <div class="img" data-background="{{ item.img_url }}"></div>
-        <div class="hover">
-          <div class="centered">
-            <h5>{{ item.title }}</h5>
-          </div>
+        <!-- IMAGE CAROUSEL -->
+        <div class="owl-slider">
+            <img src="{{ page.slide1 }}" alt="">
+            {% if page.slide2 %}<img src="{{ page.slide2 }}" alt="">{% endif %}
+            {% if page.slide3 %}<img src="{{ page.slide3 }}" alt="">{% endif %}
         </div>
-      </a>
-    </div>
-    {% endif %}
-    {% endfor %}
+        <!-- /IMAGE CAROUSEL -->
 
-<!-- /PORTFOLIO -->
-  </div> 
+        <div class="text-center p100 mb50">
+            <h2 class="title">{{ page.title }}</h2>
+            <p class="separator"></p>
+            <p>{{ content }}</p>
+            <p>{{page.year}}</p>
+            <p>{{ page.dimension }}</p>
+        </div>
+
+    </div>
 </div>
-    
+<!-- /PROJECT -->
