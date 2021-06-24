@@ -10,7 +10,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2Tw1LmMC--/c_scale,q_jpegmini,w_800/t_cropcenter800x1200/v1497221329/ashleyjan/Identity_20Fragmentation_.jpg
   title: "Identity Fragmentation: A Self Portrait"
   order: 10
-- style: 
+- style:
   class: painting
   url: /art/fredricaugustus
   img_url: //res.cloudinary.com/brightplum/image/upload/s--Bk6qaknl--/t_cropnorth800x600/v1497221346/ashleyjan/Fredric_20Augustus.jpg
@@ -22,13 +22,13 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--jYE7ut5d--/c_scale,q_jpegmini,w_800/v1567967301/ashleyjan/2019/APotentiallyContinuedMigration.jpg
   title: "A Potentially Continued Migration"
   order: 20
-- style: 
+- style:
   class: painting
-  url: /art/itolduso
+  url: /art/herrole
   img_url: //res.cloudinary.com/brightplum/image/upload/s--cgH5fajI--/c_scale,q_jpegmini,w_800/v1567965305/ashleyjan/2019/iTolduSo.jpg
-  title: "iTold u So"
+  title: "Her Role"
   order: 25
-- style: 
+- style:
   class: painting
   url: /art/pillarsjune
   img_url: //res.cloudinary.com/brightplum/image/upload/s--yoif0P5h--/c_scale,q_jpegmini,w_800/v1567965319/ashleyjan/2019/TheThreePillarsofJune.jpg
@@ -76,7 +76,7 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
   title: "Magenta Stigma"
   order: 65
-- style: 
+- style:
   class: painting
   url: /art/shetolduso
   img_url: //res.cloudinary.com/brightplum/image/upload/s--FFEZQRT4--/c_scale,q_jpegmini,w_800/v1567965311/ashleyjan/2019/SheTolduSo.jpg
@@ -156,11 +156,11 @@
   order: 120
 - style: tall
   class: studies
-  url: /art/ashleyquinnstudy
+  url: /
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/QuinnandAshleyStudy.jpg
   title: "Quinn and Ashley Study"
   order: 123
-- style: 
+- style:
   class: painting
   url: /art/kylestudy
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
@@ -188,7 +188,7 @@
   class: painting
   url: /art/ashley
   img_url: //res.cloudinary.com/brightplum/image/upload/s--E0xt4q-d--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221405/ashleyjan/Ashley_.jpg
-  title: "Ashley" 
+  title: "Ashley"
   order: 135
 - style:
   class: studies
@@ -196,13 +196,13 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
   title: "Pia and Nina Study"
   order: 137
-- style: 
+- style:
   class: painting
   url: /art/averi
   img_url: //res.cloudinary.com/brightplum/image/upload/s--bqP5nvDW--/c_scale,q_jpegmini,w_800/v1497528196/ashleyjan/Averi.jpg
   title: "Averi"
   order: 140
-- style: 
+- style:
   class: painting
   url: /art/grandpastudy
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
@@ -214,7 +214,7 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--kPPE32WC--/c_scale,q_jpegmini,w_800/v1567967300/ashleyjan/2019/GrandmaStudy.jpg
   title: "Grandma Study"
   order: 150
-- style: 
+- style:
   class: painting
   url: /art/carbon
   img_url: //res.cloudinary.com/brightplum/image/upload/s--oNOZRCGP--/c_scale,q_jpegmini,w_800/v1493571438/ashleyjan/Carbon_Footprint_box_lg8bm9.jpg
@@ -232,7 +232,7 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2sY9TurZ--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1493571545/ashleyjan/Lynsey_yi7weu.jpg
   title: "Lynsey"
   order: 165
-- style: 
+- style:
   class: drawing
   url: /art/selfportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
