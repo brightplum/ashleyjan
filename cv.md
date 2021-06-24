@@ -7,6 +7,8 @@ permalink: /cv/
 order: 2
 ---
 
+b. Rantoul, IL, 1987
+
 ### Education:
 
 2015 - 2017 - Laguna College of Art and Design, MFA - Laguna Beach, CA
@@ -47,7 +49,7 @@ order: 2
 
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
- 
+
 ### Exhibitions:
 
 2018 - Woman Made Gallery, Midwest Open Juried Competition - Chicago, IL
@@ -87,5 +89,3 @@ order: 2
 2004 - Prairie State College, Christopher Art Gallery - Chicago Heights, IL
 
 2004 - Illinois Art Education Association Student Art Show - Chicago, IL
-
-<a href="/CV-1.pdf">Download CV</a>
