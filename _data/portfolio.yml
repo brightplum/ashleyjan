@@ -1,7 +1,7 @@
 - style: wide
   class: painting
   url: /art/familyportrait
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--hDg1-sAJ--/c_scale,q_jpegmini,w_1200/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--r018uoQZ--/c_scale,q_jpegmini,w_800/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
   title: "Family Portrait"
   order: 5
 - style: tall
@@ -13,7 +13,7 @@
 - style:
   class: painting
   url: /art/fredricaugustus
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--Bk6qaknl--/t_cropnorth800x600/v1497221346/ashleyjan/Fredric_20Augustus.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Zhdx0UlU--/t_cropcenter1200x1200/v1497221346/ashleyjan/Fredric_20Augustus.jpg
   title: "Fredric Augustus"
   order: 15
 - style: tall
@@ -91,7 +91,7 @@
 - style: wide tall
   class: painting
   url: /art/jc
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--sh6X7OUk--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--2piU0eWu--/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
   title: "JC"
   order: 80
 - style:
