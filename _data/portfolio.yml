@@ -1,7 +1,7 @@
 - style: wide
   class: painting
   url: /art/familyportrait
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--P7urPqUo--/b_rgb:ffffff,bo_86px_solid_rgb:000,c_fill,w_1500/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--AJs4TBU8--/bo_100px_solid_rgb:ffffff/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
   title: "Family Portrait"
   order: 5
 - style: tall
@@ -13,13 +13,13 @@
 - style:
   class: painting
   url: /art/fredricaugustus
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--Zhdx0UlU--/t_cropcenter1200x1200/v1497221346/ashleyjan/Fredric_20Augustus.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--hSrxDhg---/bo_100px_solid_rgb:ffffff/v1624582979/ashleyjan/Fredric_20Augustuscopy.jpg
   title: "Fredric Augustus"
   order: 15
 - style: tall
   class: painting
   url: /art/potentmigrate
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--jYE7ut5d--/c_scale,q_jpegmini,w_800/v1567967301/ashleyjan/2019/APotentiallyContinuedMigration.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--jYE7ut5d--/c_scale,q_jpegmini,w_800/v1567967301/ashleyjan/2019/APotentiallyContinuedMigration.jpg
   title: "A Potentially Continued Migration"
   order: 20
 - style:
@@ -55,43 +55,43 @@
 - style:
   class: commissions
   url: /art/dbportrait
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--Oer4Um2F--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Double_Portrait_2.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Oer4Um2F--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Double_Portrait_2.jpg
   title: "Double Portrait"
   order: 50
 - style:
   class: commissions
   url: /art/theparents
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--HHZg8vpT--/c_scale,q_jpegmini,w_800/v1567967062/ashleyjan/2019/TheParents.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--HHZg8vpT--/c_scale,q_jpegmini,w_800/v1567967062/ashleyjan/2019/TheParents.jpg
   title: "The Parents"
   order: 55
 - style:
   class: painting
   url: /art/deuxtrimest
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
   title: "Deuxième Trimestre"
   order: 60
 - style: tall
   class: painting
   url: /art/magentastig
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
   title: "Magenta Stigma"
   order: 65
 - style:
   class: painting
   url: /art/shetolduso
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--FFEZQRT4--/c_scale,q_jpegmini,w_800/v1567965311/ashleyjan/2019/SheTolduSo.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--LxPDI41z--/bo_100px_solid_rgb:ffffff/v1624583110/ashleyjan/2019/SheTolduSocopy.jpg
   title: "She Told u So"
   order: 70
 - style:
   class: commissions
   url: /art/momo
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
   title: "Momo"
   order: 75
 - style: wide tall
   class: painting
   url: /art/jc
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--2piU0eWu--/t_cropcenter1200x1200/v1497221046/ashleyjan/JC.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--lo2iUPOq--/bo_100px_solid_rgb:ffffff/v1624583346/ashleyjan/JCcopy.jpg
   title: "JC"
   order: 80
 - style:
@@ -115,7 +115,7 @@
 - style: tall
   class: painting
   url: /art/blackmomuswhitemom
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
   title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
   order: 97
 - style: tall
@@ -127,7 +127,7 @@
 - style:
   class: painting
   url: /art/june
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--FXDHcw0j--/c_scale,q_jpegmini,w_800/v1567967212/ashleyjan/2019/June.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--FXDHcw0j--/c_scale,q_jpegmini,w_800/v1567967212/ashleyjan/2019/June.jpg
   title: "June"
   order: 105
 - style:
@@ -139,7 +139,7 @@
 - style: tall
   class: painting
   url: /art/pianina
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
   title: "Pia and Nina"
   order: 113
 - style: wide tall
@@ -151,7 +151,7 @@
 - style: tall
   class: commissions
   url: /art/roxanne
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--40psPWvD--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Roxanne.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--40psPWvD--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Roxanne.jpg
   title: "Roxanne"
   order: 120
 - style: tall
@@ -163,7 +163,7 @@
 - style:
   class: painting
   url: /art/kylestudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
   title: "Kyle Study"
   order: 125
 - style:
@@ -175,7 +175,7 @@
 - style: wide tall
   class: studies
   url: /art/crystalanddylanstudy
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Crystal_and_Dylan_Study.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--YizjLGZc--/bo_100px_solid_rgb:ffffff/v1624583486/ashleyjan/2020/Crystal_and_Dylan_Studycopy.jpg
   title: "Crystal and Dylan Study"
   order: 132
 - style: tall
@@ -205,13 +205,13 @@
 - style:
   class: painting
   url: /art/grandpastudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
   title: "Grandpa Study"
   order: 145
 - style:
   class: painting
   url: /art/grandmastudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--kPPE32WC--/c_scale,q_jpegmini,w_800/v1567967300/ashleyjan/2019/GrandmaStudy.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--kPPE32WC--/c_scale,q_jpegmini,w_800/v1567967300/ashleyjan/2019/GrandmaStudy.jpg
   title: "Grandma Study"
   order: 150
 - style:
@@ -241,7 +241,7 @@
 - style: tall
   class: commissions
   url: /art/beekeep
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
   title: "Bee Keeper"
   order: 175
 - style: wide tall
