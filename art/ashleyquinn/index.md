@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quinn and Ashley Study
+title: Quinn and Ashley
 permalink: /
 year: 2020
 dimension: 84 x 60 in.
