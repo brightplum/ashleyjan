@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: singlenoslideshow
 title: Quinn and Ashley
 permalink: /
 year: 2020
