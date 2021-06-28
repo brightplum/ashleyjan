@@ -66,9 +66,9 @@
   order: 55
 - style:
   class: painting
-  url: /art/deuxtrimest
+  url: /art/growthrestrict
   img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
-  title: "Deuxième Trimestre"
+  title: "Intrauterine Growth Restriction (IUGR)"
   order: 60
 - style: tall
   class: painting
