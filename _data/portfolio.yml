@@ -1,257 +1,257 @@
 - style: wide
-  class: 2021
+  class: 2017
   url: /art/familyportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--AJs4TBU8--/bo_100px_solid_rgb:ffffff/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
   title: "Family Portrait"
   order: 5
 - style: tall
-  class: 2020
+  class: 2018
   url: /art/identityfrag
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2Tw1LmMC--/c_scale,q_jpegmini,w_800/t_cropcenter800x1200/v1497221329/ashleyjan/Identity_20Fragmentation_.jpg
   title: "Identity Fragmentation: A Self Portrait"
   order: 10
 - style:
-  class: painting
+  class: 2016
   url: /art/fredricaugustus
   img_url: //res.cloudinary.com/brightplum/image/upload/s--hSrxDhg---/bo_100px_solid_rgb:ffffff/v1624582979/ashleyjan/Fredric_20Augustuscopy.jpg
   title: "Fredric Augustus"
   order: 15
 - style: tall
-  class: painting
+  class: 2018
   url: /art/potentmigrate
   img_url: //res.cloudinary.com/brightplum/image/upload/s--jYE7ut5d--/c_scale,q_jpegmini,w_800/v1567967301/ashleyjan/2019/APotentiallyContinuedMigration.jpg
   title: "A Potentially Continued Migration"
   order: 20
 - style:
-  class: painting
+  class: 2018
   url: /art/herrole
   img_url: //res.cloudinary.com/brightplum/image/upload/s--cgH5fajI--/c_scale,q_jpegmini,w_800/v1567965305/ashleyjan/2019/iTolduSo.jpg
   title: "Her Role"
   order: 25
 - style:
-  class: painting
+  class: 2018
   url: /art/pillarsjune
   img_url: //res.cloudinary.com/brightplum/image/upload/s--yoif0P5h--/c_scale,q_jpegmini,w_800/v1567965319/ashleyjan/2019/TheThreePillarsofJune.jpg
   title: "The Three Pillars of June"
   order: 30
 - style:
-  class: painting
+  class: 2016
   url: /art/junegarden
   img_url: //res.cloudinary.com/brightplum/image/upload/s--L4_YyDcH--/t_cropcenter800x600/v1497221419/ashleyjan/June_20Dans_20Le_20Jardin.jpg
   title: "June Dans le Jardin"
   order: 35
 - style: tall
-  class: painting
+  class: 2017
   url: /art/annathrone
   img_url: //res.cloudinary.com/brightplum/image/upload/s--IIlDmRI8--/t_cropcenter800x1200/v1497221159/ashleyjan/Anna_20On_20Her_20Throne_.jpg
   title: "Anna On Her Throne"
   order: 40
 - style: tall
-  class: painting
+  class: 2016
   url: /art/facetime
   img_url: //res.cloudinary.com/brightplum/image/upload/s--bqbPKY5u--/t_cropcenter800x1200/v1497221060/ashleyjan/FaceTime_20With_20January_.jpg
   title: "FaceTime With January"
   order: 45
 - style:
-  class: commissions
+  class: 2017
   url: /art/dbportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--Oer4Um2F--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Double_Portrait_2.jpg
   title: "Double Portrait"
   order: 50
 - style:
-  class: commissions
+  class: 2018
   url: /art/theparents
   img_url: //res.cloudinary.com/brightplum/image/upload/s--HHZg8vpT--/c_scale,q_jpegmini,w_800/v1567967062/ashleyjan/2019/TheParents.jpg
   title: "The Parents"
   order: 55
 - style:
-  class: painting
+  class: 2015
   url: /art/growthrestrict
   img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
   title: "Intrauterine Growth Restriction (IUGR)"
   order: 60
 - style: tall
-  class: painting
+  class: 2018
   url: /art/magentastig
   img_url: //res.cloudinary.com/brightplum/image/upload/s--KicSqbx1--/c_scale,q_jpegmini,w_800/v1567967144/ashleyjan/2019/MagentaStigma.jpg
   title: "Magenta Stigma"
   order: 65
 - style:
-  class: painting
+  class: 2018
   url: /art/shetolduso
   img_url: //res.cloudinary.com/brightplum/image/upload/s--LxPDI41z--/bo_100px_solid_rgb:ffffff/v1624583110/ashleyjan/2019/SheTolduSocopy.jpg
   title: "She Told u So"
   order: 70
 - style:
-  class: commissions
+  class: 2018
   url: /art/momo
   img_url: //res.cloudinary.com/brightplum/image/upload/s--OEEm33r0--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Momo.jpg
   title: "Momo"
   order: 75
 - style: wide tall
-  class: painting
+  class: 2017
   url: /art/jc
   img_url: //res.cloudinary.com/brightplum/image/upload/s--lo2iUPOq--/bo_100px_solid_rgb:ffffff/v1624583346/ashleyjan/JCcopy.jpg
   title: "JC"
   order: 80
 - style:
-  class: painting
+  class: 2017
   url: /art/advocate
   img_url: //res.cloudinary.com/brightplum/image/upload/s--QHwEc3l4--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221338/ashleyjan/A_d_vocat_e__.jpg
   title: "A[d]vocat[e]"
   order: 85
 - style: tall wide
-  class: painting
+  class: 2017
   url: /art/theaterwhitesonly
   img_url: //res.cloudinary.com/brightplum/image/upload/s--Uq8xTuKl--/t_cropcenter800x1200/v1497221354/ashleyjan/Front_20Entrance_20to_20Theater_.jpg
   title: "Front Entrance to Theater (White Only) in Clarksdale, Mississippi"
   order: 90
 - style:
-  class: painting
+  class: 2017
   url: /art/theaterbackentrance
   img_url: //res.cloudinary.com/brightplum/image/upload/s--clE0q1Oa--/t_cropcenter800x600/v1497221362/ashleyjan/Back_20Entrance_20to_20Theater_.jpg
   title: "Back Entrance to Theater (Black Only) in Clarksdale, Mississippi"
   order: 95
 - style: tall
-  class: painting
+  class: 2020
   url: /art/blackmomuswhitemom
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
   title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
   order: 97
 - style: tall
-  class: painting
+  class: 2018
   url: /art/jcblue
   img_url: //res.cloudinary.com/brightplum/image/upload/s--PhCvY5Is--/c_scale,w_800/c_crop,g_center,h_1200/v1497527774/ashleyjan/JC_20In_20Blue_.jpg
   title: "JC in Blue"
   order: 100
 - style:
-  class: painting
+  class: 2016
   url: /art/june
   img_url: //res.cloudinary.com/brightplum/image/upload/s--FXDHcw0j--/c_scale,q_jpegmini,w_800/v1567967212/ashleyjan/2019/June.jpg
   title: "June"
   order: 105
 - style:
-  class: painting
+  class: 2016
   url: /art/gregory
   img_url: //res.cloudinary.com/brightplum/image/upload/s--OBEfB3J0--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221377/ashleyjan/Gregory.jpg
   title: "Gregory"
   order: 110
 - style: tall
-  class: painting
+  class: 2020
   url: /art/pianina
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
   title: "Pia and Nina"
   order: 113
 - style: wide tall
-  class: painting
+  class: 2016
   url: /art/concede
   img_url: //res.cloudinary.com/brightplum/image/upload/s--xFuRDEdT--/c_scale,q_jpegmini,w_1200/t_cropcenter1200x1200/v1493571383/ashleyjan/Ashley_Gardner_01_zrc6np.jpg
   title: "Concede"
   order: 115
 - style: tall
-  class: commissions
+  class: 2016
   url: /art/roxanne
   img_url: //res.cloudinary.com/brightplum/image/upload/s--40psPWvD--/c_scale,q_jpegmini,w_800/v1567967059/ashleyjan/2019/Roxanne.jpg
   title: "Roxanne"
   order: 120
 - style: tall
-  class: studies
+  class: 2020
   url: /
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/QuinnandAshleyStudy.jpg
   title: "Quinn and Ashley Study"
   order: 123
 - style:
-  class: painting
+  class: 2016
   url: /art/kylestudy
   img_url: //res.cloudinary.com/brightplum/image/upload/s--kAshUtVi--/c_scale,g_center,q_jpegmini,w_800/v1567967147/ashleyjan/2019/KyleStudy.jpg
   title: "Kyle Study"
   order: 125
 - style:
-  class: studies
+  class: 2016
   url: /art/ashleystudy
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3nhHJhXm--/c_scale,q_jpegmini,w_800/v1567965312/ashleyjan/2019/AshleyStudy.jpg
   title: "Ashley Study"
   order: 130
 - style: wide tall
-  class: studies
+  class: 2020
   url: /art/crystalanddylanstudy
   img_url: //res.cloudinary.com/brightplum/image/upload/s--YizjLGZc--/bo_100px_solid_rgb:ffffff/v1624583486/ashleyjan/2020/Crystal_and_Dylan_Studycopy.jpg
   title: "Crystal and Dylan Study"
   order: 132
 - style: tall
-  class: studies
+  class: 2019
   url: /art/kangaroostudy
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/KangarooCareStudy.jpg
   title: "Kangaroo Care Study"
   order: 134
 - style:
-  class: painting
+  class: 2016
   url: /art/ashley
   img_url: //res.cloudinary.com/brightplum/image/upload/s--E0xt4q-d--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1497221405/ashleyjan/Ashley_.jpg
   title: "Ashley"
   order: 135
 - style:
-  class: studies
+  class: 2020
   url: /art/pianinastudy
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
   title: "Pia and Nina Study"
   order: 137
 - style:
-  class: painting
+  class: 2016
   url: /art/averi
   img_url: //res.cloudinary.com/brightplum/image/upload/s--bqP5nvDW--/c_scale,q_jpegmini,w_800/v1497528196/ashleyjan/Averi.jpg
   title: "Averi"
   order: 140
 - style:
-  class: painting
+  class: 2016
   url: /art/grandpastudy
   img_url: //res.cloudinary.com/brightplum/image/upload/s--0wkYZxn5--/c_scale,q_jpegmini,w_800/v1567965304/ashleyjan/2019/GrandpaStudy.jpg
   title: "Grandpa Study"
   order: 145
 - style:
-  class: painting
+  class: 2016
   url: /art/grandmastudy
   img_url: //res.cloudinary.com/brightplum/image/upload/s--kPPE32WC--/c_scale,q_jpegmini,w_800/v1567967300/ashleyjan/2019/GrandmaStudy.jpg
   title: "Grandma Study"
   order: 150
 - style:
-  class: painting
+  class: 2014
   url: /art/carbon
   img_url: //res.cloudinary.com/brightplum/image/upload/s--oNOZRCGP--/c_scale,q_jpegmini,w_800/v1493571438/ashleyjan/Carbon_Footprint_box_lg8bm9.jpg
   title: "Carbon Footprint"
   order: 155
 - style:
-  class: painting
+  class: 2015
   url: /art/kylehoodie
   img_url: //res.cloudinary.com/brightplum/image/upload/s--Q8qs1aJ_--/c_scale,q_jpegmini,w_800/v1493571516/ashleyjan/Kyle_ekuszq.jpg
   title: "Kyle Wearing a Hoodie"
   order: 160
 - style:
-  class: painting
+  class: 2015
   url: /art/lynsey
   img_url: //res.cloudinary.com/brightplum/image/upload/s--2sY9TurZ--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1493571545/ashleyjan/Lynsey_yi7weu.jpg
   title: "Lynsey"
   order: 165
 - style:
-  class: drawing
+  class: 2014
   url: /art/selfportrait
   img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
   title: "Self-Portrait"
   order: 170
 - style: tall
-  class: commissions
+  class: 2014
   url: /art/beekeep
   img_url: //res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
   title: "Bee Keeper"
   order: 175
 - style: wide tall
-  class: painting
+  class: 2014
   url: /art/marblejar
   img_url: //res.cloudinary.com/brightplum/image/upload/s--G04CSIH3--/c_scale,q_jpegmini,w_1200/v1511267749/ashleyjan/Marble_2C_20Jar_20and_20Mug.jpg
   title: "Marble, Jar and Mug"
   order: 180
 - style:
-  class: drawing
+  class: 2013
   url: /art/limejar
   img_url: //res.cloudinary.com/brightplum/image/upload/s--O7_aH7Td--/c_scale,w_800/c_crop,g_center,h_600/v1493571523/ashleyjan/lime_jar_pitcher_spoon_still_life_small_p6yiat.jpg
   title: "Lime, Jar, Pitcher, Spoon"
