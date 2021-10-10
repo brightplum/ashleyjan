@@ -3,6 +3,12 @@
   url: /art/ambersamuel
   img_url: //res.cloudinary.com/brightplum/image/upload/s--MQY8_LBY--/c_scale,q_jpegmini,w_800/v1633893511/ashleyjan/2021/Amber_and_Samuel.jpg
   title: "Amber and Samuel"
+  order: -5
+- style: 
+  class: 2021
+  url: /art/agency
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--tjsXWCuZ--/c_scale,q_jpegmini,w_800/v1633893508/ashleyjan/2021/She_was_given_agency_in_the_process_and_survived.jpg
+  title: "She was given agency in the process and survived"
   order: 0
 - style: wide
   class: 2017
