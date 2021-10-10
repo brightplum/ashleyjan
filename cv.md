@@ -45,6 +45,10 @@ b. Rantoul, IL, 1987
 
 ### Exhibitions:
 
+2021 - South Side Community Arts Center, The Balm: Art for Black Women's Wellness - Chicago, IL
+
+2021 - Dominique Gallery, Pushing Through Exhibition - Artsy
+
 2021 - Art Mums United, Beauty In the Mundane Exhibition- Online
 
 2020 - MCLA Gallery 51, We Are More Than A Moment - Online
