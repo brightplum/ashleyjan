@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Lime, Amber and Samuel
+title: Amber and Samuel
 permalink: /art/ambersamuel
 year: 2021
 dimension: 60 x 84 in.
