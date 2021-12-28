@@ -2,6 +2,10 @@
   .p100 {
     padding: 25px !important;
   }
+  
+  .p60 {
+    padding: 25px !important;
+  }
 
   h2 {
     font-size: 14px;
