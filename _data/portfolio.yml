@@ -1,16 +1,40 @@
-- style: 
+- style:
+  class: 2020
+  url: /art/covidshelterbaby
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--PQLQPL-r--/c_scale,w_800/v1640710034/ashleyjan/2020/COVID_Shelter_In_Place_With_Baby.jpg
+  title: "COVID Shelter In Place With Baby"
+  order: -40
+- style:
+  class: 2020
+  url: /art/covidlandscape
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--iEoUsgT7--/c_scale,w_800/v1640710004/ashleyjan/2020/COVID_Landscape.jpg
+  title: "COVID Landscape"
+  order: -35
+- style:
+  class: 2019
+  url: /art/ancestralshift
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--inQK4EMy--/c_scale,w_800/v1640710006/ashleyjan/2020/Ancestral_Shifts.jpg
+  title: "Ancestral Shifts"
+  order: -30
+- style:
+  class: 2020
+  url: /art/ashleyquinnstudy2
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--LErlw5vw--/c_scale,w_800/v1640710478/ashleyjan/2020/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches_.jpg
+  title: "Quinn and Ashley Study 2"
+  order: -25
+- style:
   class: 2021
   url: /art/ambersamuel
   img_url: //res.cloudinary.com/brightplum/image/upload/s--MQY8_LBY--/c_scale,q_jpegmini,w_800/v1633893511/ashleyjan/2021/Amber_and_Samuel.jpg
   title: "Amber and Samuel"
   order: -20
-- style: 
+- style:
   class: 2021
   url: /art/agency
   img_url: //res.cloudinary.com/brightplum/image/upload/s--tjsXWCuZ--/c_scale,q_jpegmini,w_800/v1633893508/ashleyjan/2021/She_was_given_agency_in_the_process_and_survived.jpg
   title: "She was given agency in the process and survived"
   order: -15
-- style: 
+- style:
   class: 2021
   url: /art/blackmothers
   img_url: //res.cloudinary.com/brightplum/image/upload/s--_Gcgk2n7--/c_scale,q_jpegmini,w_800/v1633893510/ashleyjan/2021/AshleyJan_Still_Black_mothers_in_the_United_States_are_dying_at_3_to_4_times_the_rate_of_white_mothers_oil_and_acrylic_on_linen_20_x_16.jpg
