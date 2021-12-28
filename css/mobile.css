@@ -1,0 +1,10 @@
+@media only screen and (max-width: 768px) {
+  .p100 {
+    padding: 25px; !important
+  }
+
+  h2 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+}
