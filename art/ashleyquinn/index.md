@@ -1,6 +1,6 @@
 ---
 layout: singlenoslideshow
-title: Quinn and Ashley, 2020
+title: Quinn and Ashley
 permalink: /
 year: 2020
 dimension: 84 x 60 in.
