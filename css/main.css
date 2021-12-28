@@ -130,8 +130,7 @@ h6 { font-size: 14px; line-height: 18px; }
 	h6   { font-size: 13px; line-height: 15px}
 }
 
-.title{
-	font-weight: 300;
+.title {
 	letter-spacing: 2px;
 	text-transform: uppercase;
 }
