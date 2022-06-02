@@ -1,0 +1,126 @@
+- style:
+  class: 2021
+  url: /art/eragratitude
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654208374/ashleyjan/An_era_a_view_of_gratitude_.jpg
+  title: "An era, a view of gratitude"
+  order: -70
+- style:
+  class: 2021
+  url: /art/hesok
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205641/ashleyjan/He_ll_be_okay.jpg
+  title: "He'll be okay (diptych)"
+  order: -65
+- style:
+  class: 2021
+  url: /art/worriedninaself
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205643/ashleyjan/More_Worried_About_Nina_Than_Myself.jpg
+  title: "More worried about Nina than myself"
+  order: -60
+- style:
+  class: 2021
+  url: /art/noopenlistening
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205634/ashleyjan/They_just_aren_t_open_to_listening_.jpg
+  title: "They just aren't open to listening"
+  order: -55
+- style:
+  class: 2021
+  url: /art/pia
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205630/ashleyjan/Ashley_January_Pia_oil_and_copper_wire_on_birch_panel_18_x_24_inches.jpg
+  title: "Pia"
+  order: -50
+- style:
+  class: 2020
+  url: /art/pretermbirthblackwhite
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205638/ashleyjan/In_2018_The_Rate_of_Preterm_Birth_Among_Black_Women_Was_About_50_Higher_Than_The_Rate_of_Preterm_Birth_Among_White_Women_24_x_18_inches.jpg
+  title: "In 2018, The Rate of Preterm Birth Among Black Women Was About 50% Higher Than The Rate of Preterm Birth Among White Women"
+  order: -45
+- style:
+  class: 2020
+  url: /art/covidshelterbaby
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--PQLQPL-r--/c_scale,w_800/v1640710034/ashleyjan/2020/COVID_Shelter_In_Place_With_Baby.jpg
+  title: "COVID Shelter In Place With Baby"
+  order: -40
+- style:
+  class: 2020
+  url: /art/covidlandscape
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--iEoUsgT7--/c_scale,w_800/v1640710004/ashleyjan/2020/COVID_Landscape.jpg
+  title: "COVID Landscape"
+  order: -35
+- style:
+  class: 2020
+  url: /art/ashleyquinnstudy2
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--LErlw5vw--/c_scale,w_800/v1640710478/ashleyjan/2020/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches_.jpg
+  title: "Quinn and Ashley Study 2"
+  order: -25
+- style:
+  class: 2021
+  url: /art/ambersamuel
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--MQY8_LBY--/c_scale,q_jpegmini,w_800/v1633893511/ashleyjan/2021/Amber_and_Samuel.jpg
+  title: "Amber and Samuel"
+  order: -20
+- style:
+  class: 2021
+  url: /art/agency
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--tjsXWCuZ--/c_scale,q_jpegmini,w_800/v1633893508/ashleyjan/2021/She_was_given_agency_in_the_process_and_survived.jpg
+  title: "She was given agency in the process and survived"
+  order: -15
+- style:
+  class: 2021
+  url: /art/blackmothers
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--_Gcgk2n7--/c_scale,q_jpegmini,w_800/v1633893510/ashleyjan/2021/AshleyJan_Still_Black_mothers_in_the_United_States_are_dying_at_3_to_4_times_the_rate_of_white_mothers_oil_and_acrylic_on_linen_20_x_16.jpg
+  title: "Still Black mothers in the United States are dying at 3 to 4 times the rate of white mothers"
+  order: -10
+- style: tall
+  class: 2021
+  url: /art/crystal
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--PFP8HECk--/c_scale,q_jpegmini,w_800/v1633893507/ashleyjan/2021/Crystal_and_Dylan_.jpg
+  title: "Crystal and Dylan"
+  order: -5
+- style: tall
+  class: 2021
+  url: /art/savinggrace
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--vxQPsnsX--/c_scale,q_jpegmini,w_800/v1633895941/ashleyjan/2021/A_Saving_Grace.jpg
+  title: "A Saving Grace"
+  order: 0
+- style:
+  class: 2018
+  url: /art/growthrestrict
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
+  title: "Intrauterine Growth Restriction (IUGR)"
+  order: 60
+- style: tall
+  class: 2020
+  url: /art/blackmomuswhitemom
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
+  title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
+  order: 97
+- style: tall
+  class: 2019
+  url: /art/pianina
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
+  title: "Pia and Nina"
+  order: 113
+- style: tall
+  class: 2020
+  url: /
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/QuinnandAshleyStudy.jpg
+  title: "Quinn and Ashley Study"
+  order: 123
+- style: wide tall
+  class: 2020
+  url: /art/crystalanddylanstudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--YizjLGZc--/bo_100px_solid_rgb:ffffff/v1624583486/ashleyjan/2020/Crystal_and_Dylan_Studycopy.jpg
+  title: "Crystal and Dylan Study"
+  order: 132
+- style: tall
+  class: 2019
+  url: /art/kangaroostudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/KangarooCareStudy.jpg
+  title: "Kangaroo Care Study"
+  order: 134
+- style:
+  class: 2020
+  url: /art/pianinastudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587846026/ashleyjan/2020/Pia_and_Nina_Study.jpg
+  title: "Pia and Nina Study"
+  order: 137

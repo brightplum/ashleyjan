@@ -1,0 +1,42 @@
+- style:
+  class: 2014
+  url: /art/carbon
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--oNOZRCGP--/c_scale,q_jpegmini,w_800/v1493571438/ashleyjan/Carbon_Footprint_box_lg8bm9.jpg
+  title: "Carbon Footprint"
+  order: 155
+- style:
+  class: 2015
+  url: /art/kylehoodie
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--Q8qs1aJ_--/c_scale,q_jpegmini,w_800/v1493571516/ashleyjan/Kyle_ekuszq.jpg
+  title: "Kyle Wearing a Hoodie"
+  order: 160
+- style:
+  class: 2015
+  url: /art/lynsey
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--2sY9TurZ--/c_scale,q_jpegmini,w_800/t_cropcenter800x600/v1493571545/ashleyjan/Lynsey_yi7weu.jpg
+  title: "Lynsey"
+  order: 165
+- style:
+  class: 2014
+  url: /art/selfportrait
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--3M7wJPgD--/c_scale,w_800/c_crop,g_face,h_600,w_800/v1493571336/ashleyjan/Artwork-185_pbetee.jpg
+  title: "Self-Portrait"
+  order: 170
+- style: tall
+  class: 2014
+  url: /art/beekeep
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
+  title: "Bee Keeper"
+  order: 175
+- style: wide tall
+  class: 2014
+  url: /art/marblejar
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--G04CSIH3--/c_scale,q_jpegmini,w_1200/v1511267749/ashleyjan/Marble_2C_20Jar_20and_20Mug.jpg
+  title: "Marble, Jar and Mug"
+  order: 180
+- style:
+  class: 2013
+  url: /art/limejar
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--O7_aH7Td--/c_scale,w_800/c_crop,g_center,h_600/v1493571523/ashleyjan/lime_jar_pitcher_spoon_still_life_small_p6yiat.jpg
+  title: "Lime, Jar, Pitcher, Spoon"
+  order: 185
