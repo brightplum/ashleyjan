@@ -1390,6 +1390,50 @@ body.slider-expanded .horizontal-slider.video-slider .swiper-slide .expand{
 	opacity: 1;
 	bottom: 2px;
 }
+/*CATEGORIES*/
+.categories{
+	text-align: center;
+	margin: 25px 0 20px;
+}
+.categories ul {
+	display: inline-block;
+	border: 2px solid #F5F5F5;
+	padding: 10px 20px;
+}
+.categories ul li {
+	position: relative;
+	font-weight: bold;
+	font-size: 11px;
+	display: inline-block;
+	margin: 8px;
+	cursor: pointer;
+	opacity: .7;
+	letter-spacing: 1px;
+}
+
+.categories ul a {
+	text-decoration: none;
+}
+
+.categories ul li.active{
+	opacity: 1;
+}
+.categories ul li:after {
+	content: "";
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	background-color: #000;
+	opacity: 0;
+	bottom: -4px;
+	-webkit-transition: all .3s ease;
+	transition: all .3s ease;
+}
+.categories ul li.active:after{
+	opacity: 1;
+	bottom: 2px;
+}
 
 
 
@@ -1412,7 +1456,7 @@ body.slider-expanded .horizontal-slider.video-slider .swiper-slide .expand{
 	text-decoration: none;
 	padding: 50px 70px;
 	width: 90%;
-	max-width: 520px;
+	max-width: 620px;
 	z-index: 1;
 	-webkit-transition: .5s ease;
 			transition: .5s ease;
