@@ -1,4 +1,40 @@
 - style:
+  class: 2021
+  url: /art/eragratitude
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654208374/ashleyjan/An_era_a_view_of_gratitude_.jpg
+  title: "An era, a view of gratitude"
+  order: -70
+- style:
+  class: 2021
+  url: /art/hesok
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205641/ashleyjan/He_ll_be_okay.jpg
+  title: "He'll be okay (diptych)"
+  order: -65
+- style:
+  class: 2021
+  url: /art/worriedninaself
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205643/ashleyjan/More_Worried_About_Nina_Than_Myself.jpg
+  title: "More worried about Nina than myself"
+  order: -60
+- style:
+  class: 2021
+  url: /art/noopenlistening
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205634/ashleyjan/They_just_aren_t_open_to_listening_.jpg
+  title: "They just aren't open to listening"
+  order: -55
+- style:
+  class: 2021
+  url: /art/pia
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205630/ashleyjan/Ashley_January_Pia_oil_and_copper_wire_on_birch_panel_18_x_24_inches.jpg
+  title: "Pia"
+  order: -50
+- style:
+  class: 2020
+  url: /art/pretermbirthblackwhite
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205638/ashleyjan/In_2018_The_Rate_of_Preterm_Birth_Among_Black_Women_Was_About_50_Higher_Than_The_Rate_of_Preterm_Birth_Among_White_Women_24_x_18_inches.jpg
+  title: "In 2018, The Rate of Preterm Birth Among Black Women Was About 50% Higher Than The Rate of Preterm Birth Among White Women"
+  order: -45
+- style:
   class: 2020
   url: /art/covidshelterbaby
   img_url: //res.cloudinary.com/brightplum/image/upload/s--PQLQPL-r--/c_scale,w_800/v1640710034/ashleyjan/2020/COVID_Shelter_In_Place_With_Baby.jpg
