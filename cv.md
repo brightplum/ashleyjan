@@ -22,6 +22,10 @@ b. Rantoul, IL, 1987
 
 ### Experience:
 
+2022 - Juror for ArtComp45, Beverly Arts Center - Chicago, IL
+
+2021 - #College Application Process, AKA, Inc - Professional Mentor Volunteer - Chicagoland
+
 2020 - Girls STEAM Ahead - Professional Showcase Volunteer - Flossmoor, IL
 
 2019 - Graduate National Portfolio Day - LCAD Representative - SAIC, Chicago, IL
@@ -42,14 +46,29 @@ b. Rantoul, IL, 1987
 
 2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
+### Publications:
+2022 - New American Paintings #161
 
-### Exhibitions:
+2022 - Studio Visit Magazine Volume 49
+
+2021 - New American Paintings #155
+
+2021 - Better Magazine
+
+### Solo Exhibitions
+Forthcoming solo at the Beverly Arts Center in August 2022 - Chicago, IL
+
+### Group Exhibitions:
+
+2022 - Alliance Contemporary, Embodied and Endangered - Chicago, IL
+
+2022 - Mana Contemporary, In Good Company - Chicago, IL
 
 2021 - South Side Community Arts Center, The Balm: Art for Black Women's Wellness - Chicago, IL
 
 2021 - Dominique Gallery, Pushing Through Exhibition - Artsy
 
-2021 - Art Mums United, Beauty In the Mundane Exhibition- Online
+2021 - Art Mums United, Beauty In the Mundane Exhibition - Online
 
 2020 - MCLA Gallery 51, We Are More Than A Moment - Online
 
@@ -103,6 +122,10 @@ b. Rantoul, IL, 1987
 
 
 ### Awards:
+
+2022 - Women's Caucas for Art, Emerging Artist Award - National
+
+2022 - Finalist - Artadia 2022 Chicago Award
 
 2018 - Woman Made Gallery, First Place Award Winner - Chicago, IL
 
