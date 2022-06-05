@@ -1,4 +1,16 @@
 - style:
+  class: 2020
+  url: /art/covidshelterbaby
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--PQLQPL-r--/c_scale,w_800/v1640710034/ashleyjan/2020/COVID_Shelter_In_Place_With_Baby.jpg
+  title: "COVID Shelter In Place With Baby"
+  order: -40
+- style:
+  class: 2020
+  url: /art/covidlandscape
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--iEoUsgT7--/c_scale,w_800/v1640710004/ashleyjan/2020/COVID_Landscape.jpg
+  title: "COVID Landscape"
+  order: -35
+- style:
   class: 2014
   url: /art/carbon
   img_url: //res.cloudinary.com/brightplum/image/upload/s--oNOZRCGP--/c_scale,q_jpegmini,w_800/v1493571438/ashleyjan/Carbon_Footprint_box_lg8bm9.jpg

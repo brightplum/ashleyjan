@@ -36,18 +36,6 @@
   order: -45
 - style:
   class: 2020
-  url: /art/covidshelterbaby
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--PQLQPL-r--/c_scale,w_800/v1640710034/ashleyjan/2020/COVID_Shelter_In_Place_With_Baby.jpg
-  title: "COVID Shelter In Place With Baby"
-  order: -40
-- style:
-  class: 2020
-  url: /art/covidlandscape
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--iEoUsgT7--/c_scale,w_800/v1640710004/ashleyjan/2020/COVID_Landscape.jpg
-  title: "COVID Landscape"
-  order: -35
-- style:
-  class: 2020
   url: /art/ashleyquinnstudy2
   img_url: //res.cloudinary.com/brightplum/image/upload/s--LErlw5vw--/c_scale,w_800/v1640710478/ashleyjan/2020/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches_.jpg
   title: "Quinn and Ashley Study 2"
