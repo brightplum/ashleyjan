@@ -4,6 +4,30 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/v1654208374/ashleyjan/An_era_a_view_of_gratitude_.jpg
   title: "An era, a view of gratitude"
   order: -70
+- style:
+  class: 2021
+  url: /art/agency
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--tjsXWCuZ--/c_scale,q_jpegmini,w_800/v1633893508/ashleyjan/2021/She_was_given_agency_in_the_process_and_survived.jpg
+  title: "She was given agency in the process and survived"
+  order: -69
+- style: tall
+  class: 2021
+  url: /art/savinggrace
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--vxQPsnsX--/c_scale,q_jpegmini,w_800/v1633895941/ashleyjan/2021/A_Saving_Grace.jpg
+  title: "A Saving Grace"
+  order: -68
+- style:
+  class: 2018
+  url: /art/growthrestrict
+  img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
+  title: "Intrauterine Growth Restriction (IUGR)"
+  order: -67
+- style: tall
+  class: 2020
+  url: /art/blackmomuswhitemom
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
+  title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
+  order: -66
 - style: wide
   class: 2021
   url: /art/hesok
@@ -48,12 +72,6 @@
   order: -20
 - style:
   class: 2021
-  url: /art/agency
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--tjsXWCuZ--/c_scale,q_jpegmini,w_800/v1633893508/ashleyjan/2021/She_was_given_agency_in_the_process_and_survived.jpg
-  title: "She was given agency in the process and survived"
-  order: -15
-- style:
-  class: 2021
   url: /art/blackmothers
   img_url: //res.cloudinary.com/brightplum/image/upload/s--_Gcgk2n7--/c_scale,q_jpegmini,w_800/v1633893510/ashleyjan/2021/AshleyJan_Still_Black_mothers_in_the_United_States_are_dying_at_3_to_4_times_the_rate_of_white_mothers_oil_and_acrylic_on_linen_20_x_16.jpg
   title: "Still Black mothers in the United States are dying at 3 to 4 times the rate of white mothers"
@@ -64,24 +82,6 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--PFP8HECk--/c_scale,q_jpegmini,w_800/v1633893507/ashleyjan/2021/Crystal_and_Dylan_.jpg
   title: "Crystal and Dylan"
   order: -5
-- style: tall
-  class: 2021
-  url: /art/savinggrace
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--vxQPsnsX--/c_scale,q_jpegmini,w_800/v1633895941/ashleyjan/2021/A_Saving_Grace.jpg
-  title: "A Saving Grace"
-  order: 0
-- style:
-  class: 2018
-  url: /art/growthrestrict
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--WSs1dEuO--/c_scale,q_jpegmini,w_800/v1567967341/ashleyjan/2019/DeuxiemeTrimestre.jpg
-  title: "Intrauterine Growth Restriction (IUGR)"
-  order: 60
-- style: tall
-  class: 2020
-  url: /art/blackmomuswhitemom
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
-  title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
-  order: 97
 - style: tall
   class: 2019
   url: /art/pianina
