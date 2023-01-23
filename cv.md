@@ -21,6 +21,9 @@ b. Rantoul, IL, 1987
 
 
 ### Experience:
+2022 - Roseland Community Hospital, Labor and Delivery Unit Project - Chicago, IL
+
+2022 - March of Dimes, Healthy Pregnancy and Community Wellness Event (showcase) - Chicago, IL
 
 2022 - Juror for ArtComp45, Beverly Arts Center - Chicago, IL
 
@@ -47,6 +50,16 @@ b. Rantoul, IL, 1987
 2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
 ### Publications:
+2023 - Artlyst - Reframing The Muse: Platform London Art Fair
+
+2023 - LUXE INTERIORS + DESIGN - Chicago
+
+2023 - AnOther Magazine - London
+
+2022 - CBS News - Roseland Community Hospital, Labor &amp; Delivery Unit Project
+
+2022 - Ruth Millington (Blog - 11 Important artist making contemporary art about motherhood) - UK
+
 2022 - New American Paintings #161
 
 2022 - Studio Visit Magazine Volume 49
@@ -56,7 +69,9 @@ b. Rantoul, IL, 1987
 2021 - Better Magazine
 
 ### Solo Exhibitions
-Forthcoming solo at the Beverly Arts Center in August 2022 - Chicago, IL
+2023 - Western Illinois University, [Human \| Mother \| Black](/portfolio/human-mother-black), Jan 17 - Feb 24, Macomb, IL
+
+2022 - The Beverly Arts Center, [Human \| Mother \| Black](/portfolio/human-mother-black), Aug 5 - Sept 10, Chicago, IL
 
 ### Group Exhibitions:
 
@@ -119,6 +134,10 @@ Forthcoming solo at the Beverly Arts Center in August 2022 - Chicago, IL
 2004 - Prairie State College, Christopher Art Gallery - Chicago Heights, IL
 
 2004 - Illinois Art Education Association Student Art Show - Chicago, IL
+
+### Fairs:
+
+2023 - London Art Fair (Platform), Cynthia Corbett Gallery, Jan 18 - 22
 
 
 ### Awards:
