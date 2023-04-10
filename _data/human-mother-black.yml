@@ -1,4 +1,22 @@
 - style:
+  class: audio
+  url: /art/audio/1
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1681147533/ashleyjan/Audio_Installation_1_kidfay.jpg
+  title: "Audio Installation 1"
+  order: -85
+- style:
+  class: audio
+  url: /art/audio/2
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1681147535/ashleyjan/Audio_Installation_2_cpemuz.jpg
+  title: "Audio Installation 2"
+  order: -80
+- style:
+  class: audio
+  url: /art/audio/3
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1681147534/ashleyjan/Audio_Installation_3_tgtoc4.jpg
+  title: "Audio Installation 3"
+  order: -75
+- style:
   class: 2021
   url: /art/eragratitude
   img_url: //res.cloudinary.com/brightplum/image/upload/v1654208374/ashleyjan/An_era_a_view_of_gratitude_.jpg
