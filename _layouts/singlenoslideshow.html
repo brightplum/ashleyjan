@@ -15,7 +15,7 @@ layout: default
         <!-- /IMAGE CAROUSEL -->
 
         <div class="p100 mb50">
-            <h6 class="title">{{ page.title }}, {{ page.year }}</h6>
+            <h6 class="title">{{ page.title }}{% if page.year %}, {{ page.year }} {% endif %}</h6>
             <p>{{ content }}</p>
             <p>{{ page.dimension }}</p>
         </div>

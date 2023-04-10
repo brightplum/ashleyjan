@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: human_mother_black
 title: Portfolio - Human | Mother | Black
 permalink: /portfolio/human-mother-black
 order: 1

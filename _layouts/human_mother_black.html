@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<!-- FILTER -->
+<div style="display: flex; justify-content: center; gap: 0.25em; ">
+    <div class="filter">
+        <ul>
+            {% assign years = page.years %}
+            {% for year in years %}
+            <li data-filter=".{{ year }}">&nbsp;{{ year }}&nbsp;</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="filter">
+        <ul>
+            <li data-filter=".audio">&nbsp;Audio Installations</li>
+        </ul>
+    </div>
+</div>
+<!-- /FILTER -->
+
+<!-- PORTFOLIO -->
+<!-- For item sizes use classes .wide and .tall -->
+<div class="container mt30">
+    <div class="grid portfolio" data-gutter="5" data-columns="3">
+
+        {% assign portfolio_items = site.data[page.file] | sort:"order" %}
+        {% for item in portfolio_items %}
+        {% if item.title %}
+        <div class="grid-item {{ item.style }} {{ item.class }}">
+            <a href="{{ site.baseurl }}{{ item.url }}">
+                <div class="img" data-background="{{ item.img_url }}"></div>
+                <div class="hover">
+                    <div class="centered">
+                        <h5>{{ item.title }}</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+        {% endif %}
+        {% endfor %}
+
+        <!-- /PORTFOLIO -->
+    </div>
+</div>
