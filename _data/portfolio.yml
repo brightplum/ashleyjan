@@ -28,12 +28,6 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
   title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
   order: -66
-- style: wide
-  class: 2021
-  url: /art/hesok
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205641/ashleyjan/He_ll_be_okay.jpg
-  title: "He'll be okay (diptych)"
-  order: -65
 - style: tall
   class: 2021
   url: /art/worriedninaself
@@ -100,12 +94,6 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/s--PFP8HECk--/c_scale,q_jpegmini,w_800/v1633893507/ashleyjan/2021/Crystal_and_Dylan_.jpg
   title: "Crystal and Dylan"
   order: -5
-- style: wide
-  class: 2017
-  url: /art/familyportrait
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--AJs4TBU8--/bo_100px_solid_rgb:ffffff/v1511267938/ashleyjan/Family_20Portrait_20diptych_20copy.jpg
-  title: "Family Portrait"
-  order: 5
 - style: tall
   class: 2018
   url: /art/identityfrag
