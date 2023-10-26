@@ -19,61 +19,21 @@ b. Rantoul, IL, 1987
 
 2008 - Institute of Italian Studies - Florence, Italy
 
-
-### Experience:
-2022 - Roseland Community Hospital, Labor and Delivery Unit Project - Chicago, IL
-
-2022 - March of Dimes, Healthy Pregnancy and Community Wellness Event (showcase) - Chicago, IL
-
-2022 - Juror for ArtComp45, Beverly Arts Center - Chicago, IL
-
-2021 - #College Application Process, AKA, Inc - Professional Mentor Volunteer - Chicagoland
-
-2020 - Girls STEAM Ahead - Professional Showcase Volunteer - Flossmoor, IL
-
-2019 - Graduate National Portfolio Day - LCAD Representative - SAIC, Chicago, IL
-
-2018 - Commissioned Painting - Untitled (14” x 18” oil on linen) - Chicago, IL
-
-2018 - Girls STEAM Ahead - Professional Mentor Volunteer - Flossmoor, IL
-
-2017 - Commissioned Painting - Untitled Double Portrait (14" x 18" oil on linen) - Chicago, IL
-
-2017 - Greater Los Angeles Masters of Fine Arts CSLB Panel Lecture - Long Beach, CA
-
-2016 - Commissioned Painting - Roxanne (18” x 24” oil on canvas on panel) - Chicago, IL
-
-2014 - Commissioned Painting - Beekeeper (18" x 24" oil on canvas) - Miami, FL
-
-2014 - Women Made Gallery - Volunteer - Chicago, IL
-
-2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
-
-### Publications:
-2023 - Artlyst - Reframing The Muse: Platform London Art Fair
-
-2023 - LUXE INTERIORS + DESIGN - Chicago
-
-2023 - AnOther Magazine - London
-
-2022 - CBS News - Roseland Community Hospital, Labor &amp; Delivery Unit Project
-
-2022 - Ruth Millington (Blog - 11 Important artist making contemporary art about motherhood) - UK
-
-2022 - New American Paintings #161
-
-2022 - Studio Visit Magazine Volume 49
-
-2021 - New American Paintings #155
-
-2021 - Better Magazine
-
 ### Solo Exhibitions
+
 2023 - Western Illinois University, [Human \| Mother \| Black](/portfolio/human-mother-black), Jan 17 - Feb 24, Macomb, IL
 
 2022 - The Beverly Arts Center, [Human \| Mother \| Black](/portfolio/human-mother-black), Aug 5 - Sept 10, Chicago, IL
 
 ### Group Exhibitions:
+
+2023 - Unit London, Voices - Naissance / Re-Naissance - Online
+
+2023 - London Art Fair, Platform, Cynthia Corbett Gallery, Jan 18 - 22
+
+2023 - The Young Masters Autumn Exhibition - Part 2, London, UK
+
+2023 - London Art Fair (Platform), Cynthia Corbett Gallery, Jan 18 - 22
 
 2022 - Alliance Contemporary, Embodied and Endangered - Chicago, IL
 
@@ -135,10 +95,6 @@ b. Rantoul, IL, 1987
 
 2004 - Illinois Art Education Association Student Art Show - Chicago, IL
 
-### Fairs:
-
-2023 - London Art Fair (Platform), Cynthia Corbett Gallery, Jan 18 - 22
-
 
 ### Awards:
 
@@ -153,3 +109,65 @@ b. Rantoul, IL, 1987
 2016 - ArtSlant Prize Competition, Round 3 Juried Winner - Online
 
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
+
+### Experience:
+
+2023 - Rush Medical College, A World Cafe (pop-up show), March 9th - Chicago, IL
+
+2023 - Podcast interview - Who’s Missing? - Art & Motherhood, S2 E6
+
+2023 - Tufts University School of Medicine, Center for Black Maternal Health and Reproductive Justice - Painting acquisition - Boston, MA
+
+2022 - Roseland Community Hospital, Labor and Delivery Unit Project - Chicago, IL
+
+2022 - March of Dimes, Healthy Pregnancy and Community Wellness Event (showcase) - Chicago, IL
+
+2022 - Juror for ArtComp45, Beverly Arts Center - Chicago, IL
+
+2021 - #College Application Process, AKA, Inc - Professional Mentor Volunteer - Chicagoland
+
+2020 - Girls STEAM Ahead - Professional Showcase Volunteer - Flossmoor, IL
+
+2019 - Graduate National Portfolio Day - LCAD Representative - SAIC, Chicago, IL
+
+2018 - Commissioned Painting - Untitled (14” x 18” oil on linen) - Chicago, IL
+
+2018 - Girls STEAM Ahead - Professional Mentor Volunteer - Flossmoor, IL
+
+2017 - Commissioned Painting - Untitled Double Portrait (14" x 18" oil on linen) - Chicago, IL
+
+2017 - Greater Los Angeles Masters of Fine Arts CSLB Panel Lecture - Long Beach, CA
+
+2016 - Commissioned Painting - Roxanne (18” x 24” oil on canvas on panel) - Chicago, IL
+
+2014 - Commissioned Painting - Beekeeper (18" x 24" oil on canvas) - Miami, FL
+
+2014 - Women Made Gallery - Volunteer - Chicago, IL
+
+2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
+
+### Publications:
+
+#### US
+
+2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art 
+
+2023 - LUXE INTERIORS + DESIGN - Chicago
+
+2022 - CBS News - Roseland Community Hospital, Labor & Delivery Unit Project
+
+2022 - Ruth Millington (Blog - 11 Important artist making contemporary art about motherhood)
+
+2022 - New American Paintings #161
+
+2022 - Studio Visit Magazine Volume 49
+
+2021 - New American Paintings #155
+
+2021 - Better Magazine
+
+#### UK
+
+2023 - Artlyst - Reframing The Muse: Platform London Art Fair
+
+2023 - AnOther Magazine - London
