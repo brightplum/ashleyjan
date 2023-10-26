@@ -5,6 +5,7 @@ permalink: /art/2021-babies-born-too-early
 year: 2023
 dimension: 24 x 18 in.
 slide1: https://res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/2021-babies-born-too-early.jpg
+slide2: https://res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/2021-babies-born-too-early.jpg
 ---
 
 Gouache on paper
