@@ -1,24 +1,24 @@
 - style:
   class: 2023
-  url: /art/2021-babies-born-too-early
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/2021-babies-born-too-early.jpg
-  title: "In 2021, 1 in 10 babies was born too early in the U.S."
-  order: 0
-- style:
-  class: 2023
   url: /art/relatively-smooth-really-listened
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271754/ashleyjan/2023/relatively-smooth-really-listened.jpg
   title: "Relatively smooth, really listened"
-  order: 5
+  order: 0
 - style:
   class: 2023
   url: /art/exhaling-to-remember
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/exhaling-to-remember.jpg
   title: "Exhaling to remember"
-  order: 10
+  order: 5
 - style:
   class: 2022
   url: /art/32-weeks-4-days-study
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/32-weeks-4-days-study.jpg
   title: "32 weeks and 4 days study"
+  order: 10
+- style:
+  class: 2023
+  url: /art/2021-babies-born-too-early
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/2021-babies-born-too-early.jpg
+  title: "In 2021, 1 in 10 babies was born too early in the U.S."
   order: 15
