@@ -27,6 +27,8 @@ b. Rantoul, IL, 1987
 
 ### Group Exhibitions:
 
+2023 - Apex Art, Fruits of Labor: Reframing Motherhood and Artmaking - New York, NY
+
 2023 - Unit London, Voices - Naissance / Re-Naissance - Online
 
 2023 - London Art Fair, Platform, Cynthia Corbett Gallery, Jan 18 - 22
