@@ -13,9 +13,9 @@ b. Rantoul, IL, 1987
 
 2015 - 2017 - Laguna College of Art and Design, MFA - Laguna Beach, CA
 
-2013 - 2015 - Vitruvian Fine Art Studio - Chicago, IL
-
 2005 - 2009 - Bradley University, B.S. - Peoria, IL
+
+2013 - 2015 - Vitruvian Fine Art Studio - Chicago, IL
 
 2008 - Institute of Italian Studies - Florence, Italy
 
@@ -32,8 +32,6 @@ b. Rantoul, IL, 1987
 2023 - London Art Fair, Platform, Cynthia Corbett Gallery, Jan 18 - 22
 
 2023 - The Young Masters Autumn Exhibition - Part 2, London, UK
-
-2023 - London Art Fair (Platform), Cynthia Corbett Gallery, Jan 18 - 22
 
 2022 - Alliance Contemporary, Embodied and Endangered - Chicago, IL
 
@@ -106,8 +104,6 @@ b. Rantoul, IL, 1987
 
 2017 - Beverly Arts Center of Chicago, Best of Show Juried Winner - Chicago, IL
 
-2016 - ArtSlant Prize Competition, Round 3 Juried Winner - Online
-
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
 ### Experience:
@@ -150,7 +146,7 @@ b. Rantoul, IL, 1987
 
 #### US
 
-2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art 
+2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art Walk)
 
 2023 - LUXE INTERIORS + DESIGN - Chicago
 
