@@ -5,12 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-I address the growing crisis of the Black maternal mortality and morbidity rate in America
-through painting and multimedia. Black women are three to four times more likely to die from
-pregnancy-related complications than white women. Motherhood, for Black women, is not
-detached from the state of being “Black” in the United States. For us, the decision to enter
-motherhood involves considerable risk, personal identity, healthcare disparities, burden-bearing
-and survival.
+I address the Black maternal mortality and morbidity crisis in America through painting and multimedia. Black women are still three to four times more likely to die from pregnancy-related complications than white women. Influenced by my own traumatic pregnancy and survival, the imagery centers the experiences of Black mothers, birthing people, and children who have suffered adverse birth outcomes but challenge the institutional modes in finding solutions. Familial vantage points shift resolution perceptions after experienced birth trauma. Dynamics foster movements in time through figuration and space. Confronting themes through quiet, often heavy motifs, the environments articulate the imposed health effects disproportionately experienced. Continuing the often layered and nuanced conversation surrounding Black maternal health, the images serve as a global call to action for more awareness, research, and the eradication of unnecessary maternal and infant death.
 
 My first pregnancy abruptly ended with a traumatic delivery. I was diagnosed with preeclampsia
 at 32 weeks and 4 days. Two days later, I delivered by emergency c-section. My baby boy was
