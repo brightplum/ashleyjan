@@ -17,7 +17,7 @@ b. Rantoul, IL, 1987
 
 2013 - 2015 - Vitruvian Fine Art Studio - Chicago, IL
 
-2008 - Institute of Italian Studies - Florence, Italy
+2008 - Instituto Lorenzo de’Medici (LdM) - Florence, Italy
 
 ### Solo Exhibitions
 
@@ -147,6 +147,8 @@ b. Rantoul, IL, 1987
 ### Publications:
 
 #### US
+
+2023 - Hyperallergic - The Time Has Come for Artist-Mothers
 
 2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art Walk)
 
