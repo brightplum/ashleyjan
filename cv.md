@@ -27,6 +27,8 @@ b. Rantoul, IL, 1987
 
 ### Group Exhibitions:
 
+2024 - South Shore Arts, Neighbors - Munster, Indiana
+
 2023 - Apex Art, Fruits of Labor: Reframing Motherhood and Artmaking - New York, NY
 
 2023 - Unit London, Voices - Naissance / Re-Naissance - Online
@@ -110,6 +112,8 @@ b. Rantoul, IL, 1987
 
 ### Experience:
 
+2024 - Soaring Scholars, AKA Inc. - Professional Mentor Volunteer - Chicagoland
+
 2023 - Rush Medical College, A World Cafe (pop-up show), March 9th - Chicago, IL
 
 2023 - Podcast interview - Who’s Missing? - Art & Motherhood, S2 E6
@@ -147,6 +151,8 @@ b. Rantoul, IL, 1987
 ### Publications:
 
 #### US
+
+2024 - Ma Magazine - Ashley January's recent featured in Ma Magazine
 
 2023 - Hyperallergic - The Time Has Come for Artist-Mothers
 
