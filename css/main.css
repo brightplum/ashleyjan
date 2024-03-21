@@ -2246,3 +2246,11 @@ body.dark-theme{
 .transparent-menu .controls-wrapper:hover{
 	opacity: 1;
 }
+
+.pin {
+	position: relative;
+	opacity: 0.8;
+	z-index: 1000;
+	margin-left: 8px;
+	margin-top: 8px;
+}

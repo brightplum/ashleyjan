@@ -1,4 +1,16 @@
 - style: tall
+  class: 2020
+  url: /art/ashleyquinn
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1624571091/ashleyjan/2020/Quinn_and_Ashley_.jpg
+  title: "Quinn and Ashley"
+  pinned: true
+- style:
+  class: 2024
+  url: /
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
+  title: "Preeclampsia affects 1 in 25 pregnancies in the US"
+  order: -100
+- style: tall
   class: 2022
   url: /art/32-weeks-4-days-study
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/32-weeks-4-days-study.jpg

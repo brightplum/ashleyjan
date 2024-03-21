@@ -1,4 +1,10 @@
 - style:
+  class: 2024
+  url: /
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
+  title: "Preeclampsia affects 1 in 25 pregnancies in the US"
+  order: -5
+- style:
   class: 2023
   url: /art/relatively-smooth-really-listened
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271754/ashleyjan/2023/relatively-smooth-really-listened.jpg

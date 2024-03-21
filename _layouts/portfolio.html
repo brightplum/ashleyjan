@@ -18,7 +18,7 @@ layout: default
 <div class="container mt30">
   <div class="grid portfolio" data-gutter="5" data-columns="3">
 
-    {% assign portfolio_items = site.data[page.file] | sort:"order" %}
+    {% assign portfolio_items = site.data[page.file] | sort:"pinned" | sort:"order" %}
     {% for item in portfolio_items %}
     {% if item.title %}
     <div class="grid-item {{ item.style }} {{ item.class }}">
@@ -29,6 +29,12 @@ layout: default
             <h5>{{ item.title }}</h5>
           </div>
         </div>
+
+        {% if item.pinned %}
+        <div class="pin">
+          <img src="/assets/pin.svg" alt="" title="Pinned Art"/>
+        </div>
+        {% endif %}
       </a>
     </div>
     {% endif %}
