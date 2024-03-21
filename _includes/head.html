@@ -1,21 +1,21 @@
 <head>
   <meta charset="utf-8">
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <title>{% if page.site_title %}{{ page.site_title | escape }}{% elsif page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="The portfolio of artist Ashley Jan">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Disable Telephone Interpretation -->
   <meta name="format-detection" content="telephone=no">
   <meta name="format-detection" content="email=no" />
   <!-- plugins' css -->
-  <link rel="stylesheet" href="{{ "/css/plugins.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="/css/plugins.css">
   <!-- google fonts -->
   <link href="//fonts.googleapis.com/css?family=Oswald:400,700,300%7cPoppins:400,300,500,700,600" rel="stylesheet" type="text/css">
   <!-- main css file -->
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
   <!-- mobile css file -->
-  <link rel="stylesheet" href="{{ "/css/mobile.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="/css/mobile.css">
   <!-- modernizr -->
-  <script src="{{ "/js/lib/modernizr-2.6.2.min.js" | | prepend: site.baseurl }}"></script>
+  <script src="/js/lib/modernizr-2.6.2.min.js"></script>
 </head>
 
 <!-- Google tag (gtag.js) -->
