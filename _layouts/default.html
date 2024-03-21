@@ -7,6 +7,8 @@
   {% include head.html %}
 
   <body>
+    <!-- https://stackoverflow.com/a/57888310/15419509 -->
+    <script>0</script>
 
     {% include header.html %}
 
@@ -17,10 +19,10 @@
     </div>
 
     <!-- js -->
-    <script src="{{ "/js/lib/jquery.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "/js/lib/scripts.js" | prepend: site.baseurl }}"></script>
+    <script src="/js/lib/jquery.min.js"></script>
+    <script src="/js/lib/scripts.js"></script>
     <!-- main js -->
-    <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+    <script src="/js/main.js"></script>
 
   </body>
 
