@@ -7,7 +7,7 @@ permalink: /cv/
 order: 2
 ---
 
-b. Rantoul, IL, 1987
+b. Illinois, 1987
 
 ### Education:
 
@@ -26,6 +26,10 @@ b. Rantoul, IL, 1987
 2022 - The Beverly Arts Center, [Human \| Mother \| Black](/portfolio/human-mother-black), Aug 5 - Sept 10, Chicago, IL
 
 ### Group Exhibitions:
+
+2024 - The Bomb Factory Foundation - Art On A Postcard Auction - London, UK
+
+2024 - Old Stone House, Mama Needs a Raise! - Brooklyn, NY
 
 2024 - South Shore Arts, Neighbors - Munster, Indiana
 
@@ -150,7 +154,9 @@ b. Rantoul, IL, 1987
 
 ### Publications:
 
-#### US
+2024 - NPR / PBS Lakeshore Public Media - Art On The Air - WVLP 89.1 FM - Radio interview segment for *Neighbors Exhibition* with South Shore Arts
+
+2024 - Ma Magazine - La maternidad segun las artistas madres: Milk Vol. 2 by Katherine Oktober
 
 2024 - Ma Magazine - Ashley January's recent featured in Ma Magazine
 
@@ -159,6 +165,10 @@ b. Rantoul, IL, 1987
 2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art Walk)
 
 2023 - LUXE INTERIORS + DESIGN - Chicago
+
+2023 - Artlyst - Reframing The Muse: Platform London Art Fair
+
+2023 - AnOther Magazine - London
 
 2022 - CBS News - Roseland Community Hospital, Labor & Delivery Unit Project
 
@@ -171,9 +181,3 @@ b. Rantoul, IL, 1987
 2021 - New American Paintings #155
 
 2021 - Better Magazine
-
-#### UK
-
-2023 - Artlyst - Reframing The Muse: Platform London Art Fair
-
-2023 - AnOther Magazine - London
