@@ -158,8 +158,6 @@ b. Illinois, 1987
 
 2024 - Ma Magazine - La maternidad segun las artistas madres: Milk Vol. 2 by Katherine Oktober
 
-2024 - Ma Magazine - Ashley January's recent featured in Ma Magazine
-
 2023 - Hyperallergic - The Time Has Come for Artist-Mothers
 
 2023 - WGN Daytime Chicago News Segment (10th Anniversary Beverly Art Walk)
