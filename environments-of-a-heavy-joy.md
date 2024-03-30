@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Portfolio - New Series
-permalink: /portfolio/new-series
+permalink: /portfolio/environments-of-a-heavy-joy/
 order: 1
-file: new-series
+file: environments-of-a-heavy-joy
 years: [2024, 2023, 2022]
 ---

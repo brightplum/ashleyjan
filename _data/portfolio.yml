@@ -1,3 +1,45 @@
+- style:
+  class: 2024
+  url: /inmemorybabyroiland
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
+  title: "In memory of Baby Roland"
+  order: -135
+- style:
+  class: 2024
+  url: /art/chemicalpregnancy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679914/ashleyjan/2024/Chemical_Pregnancy.jpg
+  title: "Chemical Pregnancy"
+  order: -130
+- style: wide
+  class: 2024
+  url: /art/kellikendradaughters
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711680051/ashleyjan/2024/Kelli_Kendra_and_their_daughters.jpg
+  title: "Kelli, Kendra, and their Daughters"
+  order: -125
+- style:
+  class: 2024
+  url: /art/jetaunolivia
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679893/ashleyjan/2024/Jetaun_and_Olivia.jpg
+  title: "Jetaun and Olivia"
+  order: -120
+- style: tall
+  class: 2024
+  url: /art/bpstillstudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679872/ashleyjan/2024/BP_still_life_study.jpg
+  title: "BP Still Life Study"
+  order: -115
+- style:
+  class: 2024
+  url: /art/kylequinnstudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679915/ashleyjan/2024/Kyle_and_Quinn_study.jpg
+  title: "Kyle and Quinn study"
+  order: -110
+- style:
+  class: 2024
+  url: /art/fiercelovestudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679897/ashleyjan/2024/Fierce_Love_study.jpg
+  title: "Fierce Love Study"
+  order: -105
 - style: tall
   class: 2020
   url: /art/ashleyquinn

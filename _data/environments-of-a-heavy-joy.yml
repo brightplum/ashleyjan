@@ -1,0 +1,78 @@
+- style:
+  class: 2024
+  url: /inmemorybabyroiland
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
+  title: "In memory of Baby Roland"
+  order: -40
+- style:
+  class: 2024
+  url: /art/chemicalpregnancy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679914/ashleyjan/2024/Chemical_Pregnancy.jpg
+  title: "Chemical Pregnancy"
+  order: -35
+- style: wide
+  class: 2024
+  url: /art/kellikendradaughters
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711680051/ashleyjan/2024/Kelli_Kendra_and_their_daughters.jpg
+  title: "Kelli, Kendra, and their Daughters"
+  order: -30
+- style:
+  class: 2024
+  url: /art/jetaunolivia
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679893/ashleyjan/2024/Jetaun_and_Olivia.jpg
+  title: "Jetaun and Olivia"
+  order: -25
+- style: tall
+  class: 2024
+  url: /art/bpstillstudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679872/ashleyjan/2024/BP_still_life_study.jpg
+  title: "BP Still Life Study"
+  order: -20
+- style:
+  class: 2024
+  url: /art/kylequinnstudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679915/ashleyjan/2024/Kyle_and_Quinn_study.jpg
+  title: "Kyle and Quinn study"
+  order: -15
+- style:
+  class: 2024
+  url: /art/fiercelovestudy
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1711679897/ashleyjan/2024/Fierce_Love_study.jpg
+  title: "Fierce Love Study"
+  order: -10
+- style:
+  class: 2024
+  url: /
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
+  title: "Preeclampsia affects 1 in 25 pregnancies in the US"
+  order: -5
+- style:
+  class: 2023
+  url: /art/relatively-smooth-really-listened
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271754/ashleyjan/2023/relatively-smooth-really-listened.jpg
+  title: "Relatively smooth, really listened"
+  order: 0
+- style:
+  class: 2023
+  url: /art/exhaling-to-remember
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/exhaling-to-remember.jpg
+  title: "Exhaling to remember"
+  order: 5
+- style: tall
+  class: 2022
+  url: /art/32-weeks-4-days-study
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/32-weeks-4-days-study.jpg
+  title: "32 weeks and 4 days study"
+  order: 10
+- style:
+  class: 2023
+  url: /art/2021-babies-born-too-early
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/2021-babies-born-too-early.jpg
+  title: "In 2021, 1 in 10 babies was born too early in the U.S."
+  order: 15
+- style:
+  class: 2023
+  url: /art/kelli-kendra-study
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1699237502/ashleyjan/2023/kelly-and-kendra.jpg
+  title: "Kelli and Kendra Study"
+  order: 20
