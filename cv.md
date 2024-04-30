@@ -27,6 +27,8 @@ b. Illinois, 1987
 
 ### Group Exhibitions:
 
+2024 - The Fitzrovia Gallery - Art on a Postcard Auction - London, UK
+
 2024 - The Bomb Factory Foundation - Art On A Postcard Auction - London, UK
 
 2024 - Old Stone House, Mama Needs a Raise! - Brooklyn, NY
@@ -153,6 +155,8 @@ b. Illinois, 1987
 2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
 ### Publications:
+
+2024 - The Art Newspaper - EXPO Chicago's first outing under Frieze draws bustling crowds and engaged buyers
 
 2024 - NPR / PBS Lakeshore Public Media - Art On The Air - WVLP 89.1 FM - Radio interview segment for *Neighbors Exhibition* with South Shore Arts
 
