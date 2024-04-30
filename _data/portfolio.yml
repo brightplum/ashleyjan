@@ -1,6 +1,6 @@
 - style:
   class: 2024
-  url: /art/inmemorybabyroland
+  url: /
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
   title: "In memory of Baby Roland"
   order: -135
@@ -48,7 +48,7 @@
   pinned: true
 - style:
   class: 2024
-  url: /
+  url: /art/preeclampsia
   img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
   title: "Preeclampsia affects 1 in 25 pregnancies in the US"
   order: -100
