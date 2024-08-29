@@ -1,5 +1,23 @@
 - style:
   class: 2024
+  url: /art/bodily-autonomy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Bodily_autonomy.png
+  title: "Bodily Autonomy"
+  order: -55
+- style:
+  class: 2024
+  url: /art/support-time-emotion
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Support_Time_Emotion.png
+  title: "Support, Time, Emotion"
+  order: -50
+- style: tall
+  class: 2024
+  url: /art/crystaldylanstudy-3
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892605/ashleyjan/2024/Crystal_and_Dylan_study_3.png
+  title: "Crystal and Dylan Study #3"
+  order: -45
+- style:
+  class: 2024
   url: /
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
   title: "In memory of Baby Roland"

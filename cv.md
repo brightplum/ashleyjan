@@ -27,9 +27,11 @@ b. Illinois, 1987
 
 ### Group Exhibitions:
 
-2024 - The Fitzrovia Gallery - Art on a Postcard Auction - London, UK
+Forthcoming 2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery - London, UK
 
-2024 - The Bomb Factory Foundation - Art On A Postcard Auction - London, UK
+2024 - EXPO Chicago, Cynthia Corbett Gallery - Chicago, IL
+
+2024 - The Fitzrovia Gallery - Art on a Postcard Auction - London, UK
 
 2024 - Old Stone House, Mama Needs a Raise! - Brooklyn, NY
 

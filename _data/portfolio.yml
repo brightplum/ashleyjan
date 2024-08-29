@@ -1,5 +1,23 @@
 - style:
   class: 2024
+  url: /art/bodily-autonomy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Bodily_autonomy.png
+  title: "Bodily Autonomy"
+  pinned: true
+- style:
+  class: 2024
+  url: /art/support-time-emotion
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Support_Time_Emotion.png
+  title: "Support, Time, Emotion"
+  order: -145
+- style: tall
+  class: 2024
+  url: /art/crystaldylanstudy-3
+  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892605/ashleyjan/2024/Crystal_and_Dylan_study_3.png
+  title: "Crystal and Dylan Study #3"
+  order: -140
+- style:
+  class: 2024
   url: /
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
   title: "In memory of Baby Roland"
@@ -40,12 +58,6 @@
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679897/ashleyjan/2024/Fierce_Love_study.jpg
   title: "Fierce Love Study"
   order: -105
-- style: tall
-  class: 2020
-  url: /art/ashleyquinn
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1624571091/ashleyjan/2020/Quinn_and_Ashley_.jpg
-  title: "Quinn and Ashley"
-  pinned: true
 - style:
   class: 2024
   url: /art/preeclampsia
@@ -58,6 +70,12 @@
   img_url: //res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/32-weeks-4-days-study.jpg
   title: "32 weeks and 4 days study"
   order: -95
+- style: tall
+  class: 2020
+  url: /art/ashleyquinn
+  img_url: //res.cloudinary.com/brightplum/image/upload/v1624571091/ashleyjan/2020/Quinn_and_Ashley_.jpg
+  title: "Quinn and Ashley"
+  order: -93
 - style:
   class: 2023
   url: /art/relatively-smooth-really-listened
