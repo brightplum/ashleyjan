@@ -29,6 +29,8 @@ b. Illinois, 1987
 
 Forthcoming 2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery - London, UK
 
+Forthcoming 2024 - Art Division Gallery, Heads Exhibition - Los Angeles, CA
+
 2024 - EXPO Chicago, Cynthia Corbett Gallery - Chicago, IL
 
 2024 - The Fitzrovia Gallery - Art on a Postcard Auction - London, UK
@@ -119,6 +121,10 @@ Forthcoming 2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery -
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
 ### Experience:
+
+Forthcoming 2024 - Power & Purpose Conference, Oct. 8 - Chicago, IL
+
+2024 - March of Dimes, Mom and Baby Action Network Summit, June 9-11, Chicago, IL
 
 2024 - Soaring Scholars, AKA Inc. - Professional Mentor Volunteer - Chicagoland
 
