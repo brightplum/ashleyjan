@@ -1,4 +1,8 @@
-gem "kramdown-parser-gfm"
-gem "jekyll-watch"
-gem "em-websocket"
-gem "webrick"
+source "https://rubygems.org"
+
+gem "jekyll"
+
+group :jekyll_plugins do
+    gem "jekyll-include-cache"
+    gem "jekyll-sass-converter"
+end
