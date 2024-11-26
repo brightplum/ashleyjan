@@ -27,9 +27,9 @@ b. Illinois, 1987
 
 ### Group Exhibitions:
 
-Forthcoming 2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery - London, UK
+2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery - London, UK
 
-Forthcoming 2024 - Art Division Gallery, Heads Exhibition - Los Angeles, CA
+2024 - Art Division Gallery, Heads Exhibition - Los Angeles, CA
 
 2024 - EXPO Chicago, Cynthia Corbett Gallery - Chicago, IL
 
@@ -122,7 +122,11 @@ Forthcoming 2024 - Art Division Gallery, Heads Exhibition - Los Angeles, CA
 
 ### Experience:
 
-Forthcoming 2024 - Power & Purpose Conference, Oct. 8 - Chicago, IL
+2024 - Forthcoming - Art for Life: Saving Mothers’ Annual Benefit for Birth Justice, December 4 - New York, NY
+
+2024 - Power & Purpose, Chicago LINKS Annual Conference, Oct. 8 - Chicago, IL
+
+2024 - Power & Purpose Conference, Oct. 8 - Chicago, IL
 
 2024 - March of Dimes, Mom and Baby Action Network Summit, June 9-11, Chicago, IL
 
@@ -163,6 +167,10 @@ Forthcoming 2024 - Power & Purpose Conference, Oct. 8 - Chicago, IL
 2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
 ### Publications:
+
+2024 - The Wick - Interview The Wick x 1-54 Contemporary African Art Fair 2024
+
+2024 - African Business Magazine - Highlights on talk programmmes for the 12th edition of 1-54 Contemporary African Art Fair
 
 2024 - The Art Newspaper - EXPO Chicago's first outing under Frieze draws bustling crowds and engaged buyers
 
