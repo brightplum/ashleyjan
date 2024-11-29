@@ -126,8 +126,6 @@ b. Illinois, 1987
 
 2024 - Power & Purpose, Chicago LINKS Annual Conference, Oct. 8 - Chicago, IL
 
-2024 - Power & Purpose Conference, Oct. 8 - Chicago, IL
-
 2024 - March of Dimes, Mom and Baby Action Network Summit, June 9-11, Chicago, IL
 
 2024 - Soaring Scholars, AKA Inc. - Professional Mentor Volunteer - Chicagoland
