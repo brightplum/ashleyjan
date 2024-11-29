@@ -2247,10 +2247,24 @@ body.dark-theme{
 	opacity: 1;
 }
 
+/* Page */
+
 .pin {
 	position: relative;
 	opacity: 0.8;
 	z-index: 1000;
 	margin-left: 8px;
 	margin-top: 8px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.row-child {
+    display: flex;
+    align-items: center;
+    width: 50%;
 }
