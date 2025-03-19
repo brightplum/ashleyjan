@@ -1,6 +1,6 @@
 - style:
   class: 2024
-  url: /art/bodily-autonomy
+  url: /
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Bodily_autonomy.png
   title: "Bodily Autonomy"
   order: -55
@@ -18,7 +18,7 @@
   order: -45
 - style:
   class: 2024
-  url: /
+  url: /art/in-memory-of-baby-roland
   img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
   title: "In memory of Baby Roland"
   order: -40
