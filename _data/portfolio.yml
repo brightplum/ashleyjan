@@ -1,13 +1,13 @@
 - style:
   class: 2024
   url: /
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Bodily_autonomy.png
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--6gC9eRVr--/q_auto:good/ashleyjan/2024/Bodily_autonomy
   title: "Bodily Autonomy"
   pinned: true
 - style:
   class: 2024
   url: /art/support-time-emotion
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Support_Time_Emotion.png
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--iTAaXAJv--/q_auto:good/ashleyjan/2024/Support_Time_Emotion
   title: "Support, Time, Emotion"
   order: -145
 - style: tall
@@ -25,7 +25,7 @@
 - style:
   class: 2024
   url: /art/chemicalpregnancy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679914/ashleyjan/2024/Chemical_Pregnancy.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--qGHhmBRU--/q_auto:good/ashleyjan/2024/Chemical_Pregnancy
   title: "Chemical Pregnancy"
   order: -130
 - style: wide
@@ -49,19 +49,19 @@
 - style:
   class: 2024
   url: /art/kylequinnstudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679915/ashleyjan/2024/Kyle_and_Quinn_study.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--eM6RFLZV--/q_auto:good/ashleyjan/2024/Kyle_and_Quinn_study
   title: "Kyle and Quinn study"
   order: -110
 - style:
   class: 2024
   url: /art/fiercelovestudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679897/ashleyjan/2024/Fierce_Love_study.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--7nQ8e6dI--/q_auto:good/ashleyjan/2024/Fierce_Love_study
   title: "Fierce Love Study"
   order: -105
 - style:
   class: 2024
   url: /art/preeclampsia
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--OOWCw8mj--/q_auto:best/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US
   title: "Preeclampsia affects 1 in 25 pregnancies in the US"
   order: -100
 - style: tall
@@ -133,7 +133,7 @@
 - style: tall
   class: 2021
   url: /art/worriedninaself
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205643/ashleyjan/More_Worried_About_Nina_Than_Myself.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--UxJPx2Bm--/q_auto:best/ashleyjan/More_Worried_About_Nina_Than_Myself
   title: "More worried about Nina than myself"
   order: -60
 - style: tall
@@ -319,7 +319,7 @@
 - style: tall
   class: 2019
   url: /art/pianina
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845794/ashleyjan/2020/PiaandNina.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--tndacBvG--/q_auto:best/ashleyjan/2020/PiaandNina
   title: "Pia and Nina"
   order: 113
 - style: wide tall

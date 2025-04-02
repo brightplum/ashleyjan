@@ -1,13 +1,13 @@
 - style:
   class: 2024
   url: /
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Bodily_autonomy.png
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--6gC9eRVr--/q_auto:good/ashleyjan/2024/Bodily_autonomy
   title: "Bodily Autonomy"
   order: -55
 - style:
   class: 2024
   url: /art/support-time-emotion
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1724892607/ashleyjan/2024/Support_Time_Emotion.png
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--iTAaXAJv--/q_auto:good/ashleyjan/2024/Support_Time_Emotion
   title: "Support, Time, Emotion"
   order: -50
 - style: tall
@@ -19,19 +19,19 @@
 - style:
   class: 2024
   url: /art/in-memory-of-baby-roland
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711682351/ashleyjan/2024/In_memory_of_Baby_Roland.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--JjxvjUBi--/q_auto:best/ashleyjan/2024/In_memory_of_Baby_Roland
   title: "In memory of Baby Roland"
   order: -40
 - style:
   class: 2024
   url: /art/chemicalpregnancy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679914/ashleyjan/2024/Chemical_Pregnancy.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--qGHhmBRU--/q_auto:good/ashleyjan/2024/Chemical_Pregnancy
   title: "Chemical Pregnancy"
   order: -35
 - style: wide
   class: 2024
   url: /art/kellikendradaughters
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711680051/ashleyjan/2024/Kelli_Kendra_and_their_daughters.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--9wHHlZP4--/q_auto:best/ashleyjan/2024/Kelli_Kendra_and_their_daughters
   title: "Kelli, Kendra, and their Daughters"
   order: -30
 - style:
@@ -43,25 +43,25 @@
 - style: tall
   class: 2024
   url: /art/bpstillstudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679872/ashleyjan/2024/BP_still_life_study.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--_b6O3TQh--/q_auto:best/ashleyjan/2024/BP_still_life_study
   title: "BP Still Life Study"
   order: -20
 - style:
   class: 2024
   url: /art/kylequinnstudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/v1711679915/ashleyjan/2024/Kyle_and_Quinn_study.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--nHCQ-KLZ--/q_auto:best/ashleyjan/2024/Kyle_and_Quinn_study
   title: "Kyle and Quinn study"
   order: -15
 - style:
   class: 2024
   url: /art/fiercelovestudy
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1711679897/ashleyjan/2024/Fierce_Love_study.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--7nQ8e6dI--/q_auto:good/ashleyjan/2024/Fierce_Love_study
   title: "Fierce Love Study"
   order: -10
 - style:
   class: 2024
   url: /art/preeclampsia
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1710595538/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--OOWCw8mj--/q_auto:best/ashleyjan/2024/Preeclampsia_affects_1_in_25_pregnancies_in_the_US
   title: "Preeclampsia affects 1 in 25 pregnancies in the US"
   order: -5
 - style:
