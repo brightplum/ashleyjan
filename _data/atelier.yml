@@ -37,7 +37,7 @@
 - style: tall
   class: 2014
   url: /art/beekeep
-  img_url: //res.cloudinary.com/brightplum/image/upload/s--rbv2heLN--/v1567967060/ashleyjan/2019/Beekeeper.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--Nxrdhabi--/c_scale,w_800/ashleyjan/2019/Beekeeper
   title: "Bee Keeper"
   order: 175
 - style: wide tall

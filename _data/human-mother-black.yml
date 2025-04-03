@@ -19,7 +19,7 @@
 - style:
   class: 2021
   url: /art/eragratitude
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--ZIELMigS--/q_auto:best/ashleyjan/An_era_a_view_of_gratitude_
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--OnHGFOPL--/c_scale,w_800/ashleyjan/An_era_a_view_of_gratitude_
   title: "An era, a view of gratitude"
   order: -70
 - style:
@@ -43,7 +43,7 @@
 - style: tall
   class: 2020
   url: /art/blackmomuswhitemom
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1587845792/ashleyjan/2020/blackmothers.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--pUwbrVAN--/c_scale,w_800/ashleyjan/2020/blackmothers
   title: "Black Mothers in the United States Die at Three to Four Times the Rate of White Mothers"
   order: -66
 - style: wide
@@ -55,13 +55,13 @@
 - style: tall
   class: 2021
   url: /art/worriedninaself
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--UxJPx2Bm--/q_auto:best/ashleyjan/More_Worried_About_Nina_Than_Myself
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--agZE0YFq--/c_scale,w_800/ashleyjan/More_Worried_About_Nina_Than_Myself
   title: "More worried about Nina than myself"
   order: -60
 - style: tall
   class: 2021
   url: /art/noopenlistening
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205634/ashleyjan/They_just_aren_t_open_to_listening_.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--ouLc-MtP--/c_scale,w_800/ashleyjan/They_just_aren_t_open_to_listening_
   title: "They just aren't open to listening"
   order: -55
 - style:
@@ -73,7 +73,7 @@
 - style: tall
   class: 2020
   url: /art/pretermbirthblackwhite
-  img_url: //res.cloudinary.com/brightplum/image/upload/v1654205638/ashleyjan/In_2018_The_Rate_of_Preterm_Birth_Among_Black_Women_Was_About_50_Higher_Than_The_Rate_of_Preterm_Birth_Among_White_Women_24_x_18_inches.jpg
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--WVALW6rl--/c_scale,w_800/ashleyjan/In_2018_The_Rate_of_Preterm_Birth_Among_Black_Women_Was_About_50_Higher_Than_The_Rate_of_Preterm_Birth_Among_White_Women_24_x_18_inches
   title: "In 2018, The Rate of Preterm Birth Among Black Women Was About 50% Higher Than The Rate of Preterm Birth Among White Women"
   order: -45
 - style:
@@ -103,13 +103,13 @@
 - style: tall
   class: 2019
   url: /art/pianina
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--tndacBvG--/q_auto:best/ashleyjan/2020/PiaandNina
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--bK9abYOW--/c_scale,w_800/ashleyjan/2020/PiaandNina
   title: "Pia and Nina"
   order: 113
 - style: tall
   class: 2020
   url: /
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--7GrV8iAf--/q_auto:best/ashleyjan/2020/QuinnandAshleyStudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--mAHjBvoL--/c_scale,w_800/ashleyjan/2020/QuinnandAshleyStudy
   title: "Quinn and Ashley Study"
   order: 123
 - style: wide tall
@@ -121,12 +121,12 @@
 - style: tall
   class: 2019
   url: /art/kangaroostudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--vBxIqGhM--/q_auto:best/ashleyjan/2020/KangarooCareStudy
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--FO9-YUe8--/c_scale,w_800/ashleyjan/2020/KangarooCareStudy
   title: "Kangaroo Care Study"
   order: 134
 - style:
   class: 2020
   url: /art/pianinastudy
-  img_url: https://res.cloudinary.com/brightplum/image/upload/s--ks0CGAkc--/q_auto:best/ashleyjan/2020/Pia_and_Nina_Study
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--3qzFfp-l--/c_scale,w_800/ashleyjan/2020/Pia_and_Nina_Study
   title: "Pia and Nina Study"
   order: 137
