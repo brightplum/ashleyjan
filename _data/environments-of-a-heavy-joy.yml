@@ -1,5 +1,71 @@
 - style:
   class: 2024
+  url: /art/disproportionately-affected-study
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--pqAvgiJQ--/c_scale,w_600,q_jpegmini/ashleyjan/2025/11._Disproportionately_affected_study
+  title: "Disproportionately Affected Study"
+  order: -110
+- style: tall
+  class: 2024
+  url: /art/resolve-study
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--Qryz8oY1--/c_scale,w_600,q_jpegmini/ashleyjan/2025/10._Resolve_study
+  title: "Resolve Study"
+  order: -105
+- style: tall
+  class: 2024
+  url: /art/resource-seekers-study
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--B41PuAIN--/c_scale,w_600,q_jpegmini/ashleyjan/2025/9._Resource_seekers_study
+  title: "Resource Seekers Study"
+  order: -100
+- style:
+  class: 2024
+  url: /art/owen
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--NeKqj5ST--/c_scale,w_600,q_jpegmini/ashleyjan/2025/8._Owen
+  title: "Owen"
+  order: -95
+- style:
+  class: 2024
+  url: /art/kelli
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--l5EW7zu8--/c_scale,w_600,q_jpegmini/ashleyjan/2025/7._Kelli
+  title: "Kelli"
+  order: -90
+- style:
+  class: 2024
+  url: /art/kelli-kendra-us
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--U9tdIg4h--/c_scale,w_600,q_jpegmini/ashleyjan/2025/6._Kelli_and_Kendra_in_United_States
+  title: "Kelli and Kendra in the United States"
+  order: -85
+- style:
+  class: 2024
+  url: /art/postartum-seesaw
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--6ZxsOouy--/c_scale,w_600,q_jpegmini/ashleyjan/2025/5._Postpartum_seesaw
+  title: "Postpartum seesaw"
+  order: -80
+- style:
+  class: 2024
+  url: /art/backyard-respite
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--dq43KBQD--/c_scale,w_600,q_jpegmini/ashleyjan/2025/4._Backyard_respite__United_States
+  title: "Backyard Respite (United States)"
+  order: -75
+- style: tall
+  class: 2024
+  url: /art/residual-effects
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--kSYXZ7NC--/c_scale,w_600,q_jpegmini/ashleyjan/2025/3._Residual_effects
+  title: "Residual Effects"
+  order: -70
+- style:
+  class: 2024
+  url: /art/disparity-seesaw
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--m1YTvR7M--/c_scale,w_600,q_jpegmini/ashleyjan/2025/2._Disparity_seesaw_in_U.S
+  title: "Disparity Seesaw in U.S."
+  order: -65
+- style: tall
+  class: 2024
+  url: /art/equanimity
+  img_url: https://res.cloudinary.com/brightplum/image/upload/s--Xgsro7CJ--/c_scale,w_600,q_jpegmini/ashleyjan/2025/1._Equanimity
+  title: "Equanimity"
+  order: -60
+- style:
+  class: 2024
   url: /
   img_url: https://res.cloudinary.com/brightplum/image/upload/s--ASjeJJlz--/c_scale,w_800/ashleyjan/2024/Bodily_autonomy
   title: "Bodily Autonomy"
