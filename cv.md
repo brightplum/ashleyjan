@@ -27,6 +27,12 @@ b. Illinois, 1987
 
 ### Group Exhibitions:
 
+2025 - EXPO Chicago, Cynthia Corbett Gallery - Chicago, IL
+
+2025 - Light in the Night: Stories Through A.R.T., Curated by The ART of Infertility and Progeny (In support of RESOLVE) - New York, NY
+
+2025 - $acred Motherhood, Women Made Gallery - Chicago, IL
+
 2024 - 1-54 Contemporary African Art Fair, Cynthia Corbett Gallery - London, UK
 
 2024 - Art Division Gallery, Heads Exhibition - Los Angeles, CA
@@ -122,7 +128,9 @@ b. Illinois, 1987
 
 ### Experience:
 
-2024 - Forthcoming - Art for Life: Saving Mothers’ Annual Benefit for Birth Justice, December 4 - New York, NY
+2025 - The Mother Lab Podcast, Tufts University, March 3rd - Online
+
+2024 - Art for Life: Saving Mothers’ Annual Benefit for Birth Justice, December 4 - New York, NY
 
 2024 - Power & Purpose, Chicago LINKS Annual Conference, Oct. 8 - Chicago, IL
 
@@ -165,6 +173,8 @@ b. Illinois, 1987
 2005 - Commissioned Drawing - Wink (18" x 24" drawing) - Flossmoor, IL
 
 ### Publications:
+
+2025 - New American Paintings #173
 
 2024 - The Wick - Interview The Wick x 1-54 Contemporary African Art Fair 2024
 
