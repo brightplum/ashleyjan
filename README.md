@@ -1,6 +1,6 @@
 # ashleyjan
 
-Ashley January by brightplum
+Ashley January
 
 ## Information
 

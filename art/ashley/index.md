@@ -4,9 +4,9 @@ title: Ashley
 permalink: /art/ashley
 year: 2016
 dimension: 8 x 8 in.
-slide1: https://res.cloudinary.com/brightplum/image/upload/s--GKZahiBy--/v1497221405/ashleyjan/Ashley_.jpg
-slide2: https://res.cloudinary.com/brightplum/image/upload/s--CR1PkuQI--/t_cropnorth800x600/v1497221405/ashleyjan/Ashley_.jpg
-slide3: https://res.cloudinary.com/brightplum/image/upload/s--m4k6Judo--/t_cropsouth800x600/v1497221405/ashleyjan/Ashley_.jpg
+slide1: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches__apx5cx.jpg
+slide2: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches__apx5cx.jpg
+slide3: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches__apx5cx.jpg
 ---
 
 Acrylic on canvas

@@ -4,9 +4,9 @@ title: Kyle Wearing a Hoodie
 permalink: /art/kylehoodie
 year: 2015
 dimension: 22 x 18 in.
-slide1: https://res.cloudinary.com/brightplum/image/upload/s--Q8qs1aJ_--/c_scale,q_jpegmini,w_800/v1493571516/ashleyjan/Kyle_ekuszq.jpg
-slide2: https://res.cloudinary.com/brightplum/image/upload/s--ghds3-BP--/c_scale,q_jpegmini,w_800/t_cropnorth800x600/v1493571516/ashleyjan/Kyle_ekuszq.jpg
-slide3: https://res.cloudinary.com/brightplum/image/upload/s--qFANHsxG--/c_scale,q_jpegmini,w_800/t_cropsouth800x600/v1493571516/ashleyjan/Kyle_ekuszq.jpg
+slide1: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Kyle_ekuszq_qhc8ka.jpg
+slide2: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Kyle_ekuszq_qhc8ka.jpg
+slide3: https://res.cloudinary.com/dc2i2nofc/image/upload/t_full/Kyle_ekuszq_qhc8ka.jpg
 ---
 
 Oil on panel

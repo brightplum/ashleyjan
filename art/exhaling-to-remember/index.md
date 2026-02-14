@@ -4,8 +4,7 @@ title: Exhaling to remember
 permalink: /art/exhaling-to-remember
 year: 2023
 dimension: 24 x 30 in.
-slide1: https://res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/exhaling-to-remember.jpg
-slide2: https://res.cloudinary.com/brightplum/image/upload/v1698271753/ashleyjan/2023/exhaling-to-remember.jpg
+slide1: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/exhaling-to-remember_d6kydz
 ---
 
 Oil on linen
