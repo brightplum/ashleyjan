@@ -334,7 +334,7 @@
   img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/SheTolduSocopy_vgn6dj.jpg
   title: "She Told u So"
   order: 70
-- style:
+- style: wide
   class: 2018
   url: /art/momo
   img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/Momo_qjos3b.jpg
@@ -373,7 +373,7 @@
 - style:
   class: 2016
   url: /art/june
-  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/JuneDETAIL_bfhc5z.jpg
+  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/June_yeacpz.jpg
   title: "June"
   order: 105
 - style:
@@ -397,7 +397,7 @@
 - style: tall
   class: 2016
   url: /art/roxanne
-  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/RoxanneDETAIL_hhrqyq.jpg
+  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/Roxanne_qgq1qa.jpg
   title: "Roxanne"
   order: 120
 - style: tall
@@ -433,7 +433,7 @@
 - style:
   class: 2016
   url: /art/ashley
-  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/Ashley_Jan_Quinn_and_Ashley_Study_2_oil_on_linen_11_x_14_inches__apx5cx.jpg
+  img_url: https://res.cloudinary.com/dc2i2nofc/image/upload/t_optimized/Ashley__oxk8xe.jpg
   title: "Ashley"
   order: 135
 - style:

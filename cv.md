@@ -1,13 +1,13 @@
 ---
 layout: page
 title: CV
-subtitle: b. Rantoul, IL, 1987
+subtitle: b. Rantoul, IL
 lead: CV
 permalink: /cv/
 order: 2
 ---
 
-b. Illinois, 1987
+b. Illinois
 
 ### Education:
 
@@ -131,6 +131,10 @@ b. Illinois, 1987
 2004 - Prairie State College Award of Merit - Chicago Heights, IL
 
 ### Experience:
+
+2026 - Women's Caucus for Art, 2nd Saturday Panel with Planned Parenthood of Illinois - Cultivating Care for Black Mothers: A panel on the intersection of art and healthcare
+
+2025 - Founded The Studio Space, arts incubator
 
 2025 - Western Illinois University, Guest Lecture, April 29th - Virtual
 

@@ -7,11 +7,15 @@ layout: default
     <div class="col-md-12">
 
         <!-- IMAGE CAROUSEL -->
+         {% if page.slide2 %}
         <div class="owl-slider">
             <img src="{{ page.slide1 }}" alt="">
-            {% if page.slide2 %}<img src="{{ page.slide2 }}" alt="">{% endif %}
+            <img src="{{ page.slide2 }}" alt="">
             {% if page.slide3 %}<img src="{{ page.slide3 }}" alt="">{% endif %}
         </div>
+        {% else %}
+        <img src="{{ page.slide1 }}" alt="">
+        {% endif %}
         <!-- /IMAGE CAROUSEL -->
 
         <div class="pt40 mb50">
