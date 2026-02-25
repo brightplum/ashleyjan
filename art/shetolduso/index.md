@@ -1,6 +1,6 @@
 ---
 layout: single
-title: She Told u So
+title: Le Lien
 permalink: /art/shetolduso
 year: 2018
 dimension: 48 x 36 in.
